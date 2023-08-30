@@ -1,9 +1,9 @@
-### **Dataset:** Species_Author_Year
+**Dataset:** Species_Author_Year
 
-### **DOI:**
+**DOI:**
 
-### **Download instrucctions:**
+**Download instrucctions:**
 
-### **R script to format data:**
+**R script to format data:**
 
-### **Citation(s):**
+**Citation(s):**
