@@ -26,6 +26,15 @@ GRM = ...,
 N_Pheno = ...,
 N_Geno = ...
 )
+
+library(jsonlite)
+meta_json <- toJSON(meta_list, pretty = TRUE, auto_unbox = TRUE)
+
+# Write
+write(meta_json, "meta_data.json")
+
+# Read
+meta_json <- read_json("meta_data.json")
 ```
 
 
