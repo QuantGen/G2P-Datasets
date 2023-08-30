@@ -1,4 +1,4 @@
-**Dataset:** ID_Species
+**Dataset:** Species
 
 **DOI:**
 
@@ -8,7 +8,6 @@
 
 **Create meta_data.json:**
 
-List format:
 ```R
 meta_list <- list (
 Dataset_Folder = ...,
