@@ -1,0 +1,17 @@
+{
+  "Dataset_Folder": "00001_mosquito",
+  "Scientific_Name": "Aedes aegypti",
+  "Common_Name": "Yellow Fever Mosquito",
+  "ID": "00001",
+  "DOI": "https://doi.org/10.5061/dryad.5x69p8d5j",
+  "Requires_Authorization": false,
+  "DNA": true,
+  "Phenotype": false,
+  "Map": true,
+  "Pedigree": true,
+  "A_Matrix": false,
+  "GRM": false,
+  "N_Pheno": 0,
+  "N_Geno": 381,
+  "N_markers": 20003
+}
