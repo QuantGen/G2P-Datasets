@@ -1,0 +1,19 @@
+{
+  "ID": "0064",
+  "Folder": "00064_GrowthGainsSelectiveBreeding",
+  "Sharing_Link": "https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/9AEFKD",
+  "Publication_link": "https://onlinelibrary.wiley.com/doi/full/10.1111/eva.12525",
+  "Title": "Growth gains from selective breeding in a spruce hybrid zone do not compromise local adaptation to climate",
+  "Abstract": null,
+  "Scientific_Name": "Picea glauca",
+  "Common_Name": "White spruce",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": true,
+  "Pedigree": false,
+  "N_Geno": 2503,
+  "N_markers": 12966,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.5683/SP2/9AEFKD",
+  "Abstract.scraped": null
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "0044",
+  "Folder": "00044_CottonFibreQualityBayesianRegression",
+  "Sharing_Link": "https://data.csiro.au/collection/csiro%3A54562v2",
+  "Publication_link": "https://www.nature.com/articles/s41437-022-00537-x",
+  "Title": "Genomic prediction of cotton fibre quality and yield traits using Bayesian regression methods",
+  "Abstract": "Internet Explorer is not supported. Please use an alternate browser such as Microsoft Edge, Google Chrome, Firefox or Safari. We're sorry, the CSIRO Data Access Portal requires JavaScript to be enabled. Please enable it to continue.",
+  "Scientific_Name": "Gossypium hirsutum",
+  "Common_Name": "Cotton",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": true,
+  "Pedigree": true,
+  "N_Geno": 1385,
+  "N_markers": 12297,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.25919/k18n-nk98",
+  "Abstract.scraped": "Internet Explorer is not supported. Please use an alternate browser such as Microsoft Edge, Google Chrome, Firefox or Safari. We're sorry, the CSIRO Data Access Portal requires JavaScript to be enabled. Please enable it to continue."
+}

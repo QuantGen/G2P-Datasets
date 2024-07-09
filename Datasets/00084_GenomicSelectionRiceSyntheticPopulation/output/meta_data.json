@@ -1,0 +1,19 @@
+{
+  "ID": "0084",
+  "Folder": "00084_GenomicSelectionRiceSyntheticPopulation",
+  "Sharing_Link": "http://tropgenedb.cirad.fr/tropgene/JSP/interface.jsp?module=RICE",
+  "Publication_link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136594#sec002",
+  "Title": "Accuracy of Genomic Selection in a Rice Synthetic Population Developed for Recurrent Selection Breeding",
+  "Abstract": "Accuracy of Genomic Selection in a Rice Synthetic Population Developed for Recurrent Selection Breeding",
+  "Scientific_Name": "Oryza sativa",
+  "Common_Name": "Rice",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 343,
+  "N_markers": 8336,
+  "Download_Instructions": "Find SEPANG_SNP and SEPANG_Pheno in the Study field. Dowload zip files, extract and find the respective xlsx files.",
+  "DOI": "https://doi.org/10.1371/journal.pone.0136594",
+  "Abstract.scraped": "Accuracy of Genomic Selection in a Rice Synthetic Population Developed for Recurrent Selection Breeding"
+}

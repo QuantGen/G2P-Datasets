@@ -1,0 +1,19 @@
+{
+  "ID": "0071",
+  "Folder": "00071_DevelopmentalTraitsBiomassSorghum",
+  "Sharing_Link": "https://datacommons.cyverse.org/browse/iplant/home/shared/GoreLab/dataFromPubs/dosSantos_BayesianNetworks_2019",
+  "Publication_link": "https://academic.oup.com/g3journal/article/10/2/769/6026292",
+  "Title": "Novel Bayesian Networks for Genomic Prediction of Developmental Traits in Biomass Sorghum",
+  "Abstract": null,
+  "Scientific_Name": "Sorghum bicolor",
+  "Common_Name": "Sorghum",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 853,
+  "N_markers": 292270,
+  "Download_Instructions": "Click on raw data and download the required genotype and phenotype data files.",
+  "DOI": "https://doi.org/10.1534/g3.119.400759",
+  "Abstract.scraped": null
+}

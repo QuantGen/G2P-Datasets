@@ -1,0 +1,19 @@
+{
+  "ID": "0042",
+  "Folder": "00042_CaseStudyOrangeRoughy",
+  "Sharing_Link": "https://figshare.unimelb.edu.au/articles/dataset/Genomic_data_suggest_environmental_drivers_of_fish_population_structure_in_the_deep_sea_a_case_study_for_the_orange_roughy_Hoplostethus_atlanticus_/9946856",
+  "Publication_link": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13534",
+  "Title": "Genomic data suggest environmental drivers of fish population structure in the deep sea: A case study for the orange roughy (Hoplostethus atlanticus)",
+  "Abstract": "Genomic data suggest environmental drivers of fish population structure in the deep sea; a case study for the orange roughy (Hoplostethus atlanticus)",
+  "Scientific_Name": "Hoplostethus atlanticus",
+  "Common_Name": "Orange roughy",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 1734,
+  "N_markers": 7714,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.26188/5d9bc8afa5b54",
+  "Abstract.scraped": "Genomic data suggest environmental drivers of fish population structure in the deep sea; a case study for the orange roughy (Hoplostethus atlanticus)"
+}

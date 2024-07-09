@@ -1,0 +1,19 @@
+{
+  "ID": "0073",
+  "Folder": "00073_CRANSoyNAMData",
+  "Sharing_Link": "https://CRAN.R-project.org/package=SoyNAM",
+  "Publication_link": null,
+  "Title": "SoyNAM: Soybean Nested Association Mapping Dataset",
+  "Abstract": "SoyNAM: Soybean Nested Association Mapping Dataset\nGenomic and multi-environmental soybean data. Soybean Nested\n    Association Mapping (SoyNAM) project dataset funded by the United Soybean Board\n    (USB). BLUP function formats data for genome-wide prediction and association analysis.",
+  "Scientific_Name": "Glycine max",
+  "Common_Name": "Soybean",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 5180,
+  "N_markers": 4312,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.32614/CRAN.package.SoyNAM",
+  "Abstract.scraped": "SoyNAM: Soybean Nested Association Mapping Dataset\nGenomic and multi-environmental soybean data. Soybean Nested\n    Association Mapping (SoyNAM) project dataset funded by the United Soybean Board\n    (USB). BLUP function formats data for genome-wide prediction and association analysis."
+}

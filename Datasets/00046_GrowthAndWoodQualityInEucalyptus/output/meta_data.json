@@ -1,0 +1,19 @@
+{
+  "ID": "0046",
+  "Folder": "00046_GrowthAndWoodQualityInEucalyptus",
+  "Sharing_Link": "https://figshare.com/articles/dataset/Genomic_relationships-based_genetic_parameters_and_prospects_of_genomic_selection_for_growth_and_wood_quality_traits_in_Eucalyptus_benthamii_-_SNPdata/14806449 - https://figshare.com/articles/dataset/Genomic_relationships-based_genetic_parameters_and_prospects_of_genomic_selection_for_growth_and_wood_quality_traits_in_Eucalyptus_benthamii_-_PhenoData/14807916",
+  "Publication_link": "https://link.springer.com/article/10.1007/s11295-021-01516-9",
+  "Title": "Genomic relationshipâ€“based genetic parameters and prospects of genomic selection for growth and wood quality traits in Eucalyptus benthamii",
+  "Abstract": null,
+  "Scientific_Name": "Eucalyptus benthamii",
+  "Common_Name": "Camden White Gum",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 672,
+  "N_markers": 60728,
+  "Download_Instructions": "Two data links, one for Genotyoe data and the other for Phenotype data.",
+  "DOI": "https://doi.org/10.6084/m9.figshare.14806449 - https://doi.org/10.6084/m9.figshare.14807916",
+  "Abstract.scraped": null
+}

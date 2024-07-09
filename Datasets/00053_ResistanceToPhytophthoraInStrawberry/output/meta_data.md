@@ -1,0 +1,10 @@
+# Harnessing underutilized gene bank diversity and genomic prediction of cross usefulness to enhance resistance to Phytophthora cactorum in strawberry
+
+This publication discusses the The development of strawberry Fragaria x ananassa cultivars resistant to Phytophthora crown rot (PhCR), a devastating disease caused by the soil-borne pathogen Phytophthora cactorum, has been challenging, partly because resistance phenotypes are quantitative and only moderately heritable. To develop deeper insights into the genetics of resistance and build the foundation for applying genomic selection, a genetically diverse training population was screened for resistance to California isolates of the pathogen. Here we show that genetic gains in breeding for resistance to PhCR have been negligible (3% of the cultivars tested were highly resistant and none surpassed early twentieth-century cultivars). Narrow-sense heritability for PhCR resistance ranged from 0.35-0.57. Using multivariate GWAS, we identified a large-effect locus (predicted to be RPc2) that appears to be ubiquitous, slowed symptom development, explained 43.6-51.6% of the genetic variance, was necessary but not sufficient for resistance, and was strongly associated with calcium channel and other genes with known plant defense functions. The addition of underutilized gene bank resources to our training population doubled additive genetic variance, increased the accuracy of genomic selection, and enabled the discovery of individuals carrying favorable alleles that are either rare or not present in modern cultivars. The incorporation of an RPc2-associated SNP as a fixed effect increased genomic prediction accuracy from 0.40 to 0.55. Finally, we show that parent selection using genomic-estimated breeding values, genetic variances, and cross-usefulness holds promise for enhancing resistance to PhCR in strawberry.
+It contains  genotypes and  markers.
+
+Title: Harnessing underutilized gene bank diversity and genomic prediction of cross usefulness to enhance resistance to Phytophthora cactorum in strawberry
+Scientific name: 
+DOI: https://doi.org/10.25338/B86D3M
+Has phenotype 
+

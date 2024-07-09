@@ -1,0 +1,19 @@
+{
+  "ID": "0087",
+  "Folder": "00087_MultiTraitPredictionPerennialRyegrass",
+  "Sharing_Link": "https://gsajournals.figshare.com/articles/dataset/Supplemental_Material_for_Arojju_et_al_2020/10074323",
+  "Publication_link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.01197/full",
+  "Title": "Multi-Trait Genomic Prediction Improves Predictive Ability for Dry Matter Yield and Water-Soluble Carbohydrates in Perennial Ryegrass",
+  "Abstract": "Supplementary_Material: Tables S1 - S11 and Figure S1File S1: Genome-wide marker data. File S2: Genomic relationship matrix.File S3: KGD genomic relationship matrix.File S4: Phenotypic BLUPs from across the two locations and individual locations, Lincoln and Aorangi.",
+  "Scientific_Name": "Lolium perenne",
+  "Common_Name": "Perennial ryegrass",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 517,
+  "N_markers": 1023010,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.25387/g3.10074323.v1",
+  "Abstract.scraped": "Supplementary_Material: Tables S1 - S11 and Figure S1File S1: Genome-wide marker data. File S2: Genomic relationship matrix.File S3: KGD genomic relationship matrix.File S4: Phenotypic BLUPs from across the two locations and individual locations, Lincoln and Aorangi."
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "0055",
+  "Folder": "00055_ResistanceToVirusInPacificOysters",
+  "Sharing_Link": "https://academic.oup.com/g3journal/article/8/4/1273/5941681",
+  "Publication_link": "https://academic.oup.com/g3journal/article/8/4/1273/5941681",
+  "Title": "A Genome-Wide Association Study for Host Resistance to Ostreid Herpesvirus in Pacific Oysters (Crassostrea gigas)",
+  "Abstract": null,
+  "Scientific_Name": "Crassostrea gigas",
+  "Common_Name": "Pacific oysters",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": true,
+  "Pedigree": false,
+  "N_Geno": 856,
+  "N_markers": 23388,
+  "Download_Instructions": "Supplementary data section at the end of the article provides the data files while 'Data Availability' subsection under 'Methods' labels the data.",
+  "DOI": "https://doi.org/10.1534/g3.118.200113",
+  "Abstract.scraped": null
+}

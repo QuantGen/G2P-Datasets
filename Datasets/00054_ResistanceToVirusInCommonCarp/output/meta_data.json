@@ -1,0 +1,19 @@
+{
+  "ID": "0054",
+  "Folder": "00054_ResistanceToVirusInCommonCarp",
+  "Sharing_Link": "https://figshare.com/articles/dataset/Supplemental_Material_for_Palaiokostas_et_al_2018/6281561",
+  "Publication_link": "https://academic.oup.com/g3journal/article/8/11/3507/6026996",
+  "Title": "Mapping and Sequencing of a Significant Quantitative Trait Locus Affecting Resistance to Koi Herpesvirus in Common Carp",
+  "Abstract": null,
+  "Scientific_Name": "Cyprinus carpio",
+  "Common_Name": "Common Carp",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": true,
+  "N_Geno": 1274,
+  "N_markers": 12312,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.1534/g3.118.200593",
+  "Abstract.scraped": null
+}

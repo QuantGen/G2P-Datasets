@@ -1,0 +1,19 @@
+{
+  "ID": "0100",
+  "Folder": "00100_PopulationGeneticInferenceSeaBass",
+  "Sharing_Link": "https://figshare.com/articles/dataset/Genome-Wide_SNP_Discovery_Genotyping_and_Their_Preliminary_Applications_for_Population_Genetic_Inference_in_Spotted_Sea_Bass_i_Lateolabrax_maculatus_i_/3460751?file=5441483",
+  "Publication_link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157809",
+  "Title": "Genome-Wide SNP Discovery, Genotyping and Their Preliminary Applications for Population Genetic Inference in Spotted Sea Bass (Lateolabrax maculatus)",
+  "Abstract": "Genome-Wide SNP Discovery, Genotyping and Their Preliminary Applications for Population Genetic Inference in Spotted Sea Bass (Lateolabrax maculatus)",
+  "Scientific_Name": "Lateolabrax maculatus",
+  "Common_Name": "Spotted sea bass",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 30,
+  "N_markers": 22648,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.1371/journal.pone.0157809",
+  "Abstract.scraped": "Genome-Wide SNP Discovery, Genotyping and Their Preliminary Applications for Population Genetic Inference in Spotted Sea Bass (Lateolabrax maculatus)"
+}

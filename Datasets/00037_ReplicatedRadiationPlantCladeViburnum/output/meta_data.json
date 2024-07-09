@@ -1,0 +1,19 @@
+{
+  "ID": "0037",
+  "Folder": "00037_ReplicatedRadiationPlantCladeViburnum",
+  "Sharing_Link": "https://zenodo.org/records/5504439",
+  "Publication_link": "https://www.nature.com/articles/s41559-022-01823-x",
+  "Title": "Replicated radiation of a plant clade along a cloud forest archipelago",
+  "Abstract": "Replicated radiation of a plant clade along a cloud forest archipelago dataset",
+  "Scientific_Name": "Viburnum sp",
+  "Common_Name": "Viburnum",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": true,
+  "Pedigree": false,
+  "N_Geno": 273,
+  "N_markers": 3419673,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.5281/zenodo.5504438",
+  "Abstract.scraped": "Replicated radiation of a plant clade along a cloud forest archipelago dataset"
+}

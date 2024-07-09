@@ -1,0 +1,19 @@
+{
+  "ID": "0032",
+  "Folder": "00032_MultisiteExperimentNetworkMaize",
+  "Sharing_Link": "https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.15454/IASSTN",
+  "Publication_link": "https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.15454/IASSTN",
+  "Title": "A multi-site experiment in a network of European fields for assessing the maize yield response to environmental scenarios",
+  "Abstract": null,
+  "Scientific_Name": "Zea mays",
+  "Common_Name": "Maize",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 246,
+  "N_markers": 41722,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.15454/IASSTN",
+  "Abstract.scraped": null
+}

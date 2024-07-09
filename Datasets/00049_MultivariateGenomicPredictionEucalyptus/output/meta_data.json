@@ -1,0 +1,19 @@
+{
+  "ID": "0049",
+  "Folder": "00049_MultivariateGenomicPredictionEucalyptus",
+  "Sharing_Link": "https://zenodo.org/records/4040042",
+  "Publication_link": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.499094/full#h7",
+  "Title": "Marker Selection in Multivariate Genomic Prediction Improves Accuracy of Low Heritability Traits",
+  "Abstract": null,
+  "Scientific_Name": "Eucalyptus nitens",
+  "Common_Name": "Shining gum",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 691,
+  "N_markers": 58324,
+  "Download_Instructions": null,
+  "DOI": "https://zenodo.org/doi/10.5281/zenodo.4040041",
+  "Abstract.scraped": null
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "0075",
+  "Folder": "00075_GeneticHeterogeneityWholeGenomeMaize",
+  "Sharing_Link": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE50558",
+  "Publication_link": "https://academic.oup.com/genetics/article/201/1/323/5930096",
+  "Title": "Assessment of Genetic Heterogeneity in Structured Plant Populations Using Multivariate Whole-Genome Regression Models",
+  "Abstract": "Intraspecific variation of recombination rate in maize",
+  "Scientific_Name": "Zea mays",
+  "Common_Name": "Maize",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 1005,
+  "N_markers": 56110,
+  "Download_Instructions": "To download the data used in the article - Scroll down and Find CFD matrix file(Dent Populations)",
+  "DOI": "https://doi.org/10.1186/gb-2013-14-9-r103",
+  "Abstract.scraped": "Intraspecific variation of recombination rate in maize"
+}

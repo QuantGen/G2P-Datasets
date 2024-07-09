@@ -1,0 +1,19 @@
+{
+  "ID": "0026",
+  "Folder": "00026_GlobalDurumWheatPanel",
+  "Sharing_Link": "https://graingenes.org/GG3/global_durum_genomic_resources",
+  "Publication_link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.569905/full",
+  "Title": "The Global Durum Wheat Panel (GDP): An International Platform to Identify and Exchange Beneficial Alleles",
+  "Abstract": null,
+  "Scientific_Name": "Triticum turgidum",
+  "Common_Name": "Wheat",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 1028,
+  "N_markers": 44536,
+  "Download_Instructions": "Download GDP_Illumina_90K_SNP_1025Geno_44536SNP file - Genotypic data and GDP_list_passport_1028_accessions file - Phenotypic data",
+  "DOI": "https://doi.org/10.1093/database/baac034",
+  "Abstract.scraped": null
+}

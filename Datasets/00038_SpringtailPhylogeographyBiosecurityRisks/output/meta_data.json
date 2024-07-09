@@ -1,0 +1,19 @@
+{
+  "ID": "0038",
+  "Folder": "00038_SpringtailPhylogeographyBiosecurityRisks",
+  "Sharing_Link": "https://bridges.monash.edu/articles/dataset/SNP_dataset_for_the_springtail_Tullbergia_bisetosa/9761429",
+  "Publication_link": "https://onlinelibrary.wiley.com/doi/10.1111/eva.12913",
+  "Title": "Springtail phylogeography highlights biosecurity risks of repeated invasions and intraregional transfers among remote islands",
+  "Abstract": "Dataset of 5680 genome-wide Single Nucleotide Polymorphisms for the springtail Tullbergia bisetosa in VCF format. An excel spreadsheet with associated metadata (sample collection details) is also supplied. The SNPs were generated at Diversity Arrays Technology (Canberra, Australia) using reduced representation next-generation sequencing, and subsequently quality filtered according to the methods outlined in the associated manuscript: Baird, H.P., Moon, K.L., Janion-Scheepers, C. & Chown, S.L. (2020) Springtail phylogeography highlights biosecurity risks of repeated invasions and intraregional transfers among remote islands. Evolutionary Applications, doi:10.1111/eva.12913",
+  "Scientific_Name": "Tullbergia bisetosa",
+  "Common_Name": "Springtail",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 178,
+  "N_markers": 5680,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.26180/5d6e10736bed4",
+  "Abstract.scraped": "Dataset of 5680 genome-wide Single Nucleotide Polymorphisms for the springtail Tullbergia bisetosa in VCF format. An excel spreadsheet with associated metadata (sample collection details) is also supplied. The SNPs were generated at Diversity Arrays Technology (Canberra, Australia) using reduced representation next-generation sequencing, and subsequently quality filtered according to the methods outlined in the associated manuscript: Baird, H.P., Moon, K.L., Janion-Scheepers, C. & Chown, S.L. (2020) Springtail phylogeography highlights biosecurity risks of repeated invasions and intraregional transfers among remote islands. Evolutionary Applications, doi:10.1111/eva.12913"
+}

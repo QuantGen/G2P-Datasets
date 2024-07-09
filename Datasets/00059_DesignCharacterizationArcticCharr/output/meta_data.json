@@ -1,0 +1,19 @@
+{
+  "ID": "0059",
+  "Folder": "00059_DesignCharacterizationArcticCharr",
+  "Sharing_Link": "https://figshare.com/articles/dataset/Design_and_characterization_of_an_87k_SNP_genotyping_array_for_Arctic_charr_i_Salvelinus_alpinus_i_/7959782",
+  "Publication_link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215008",
+  "Title": "Design and characterization of an 87k SNP genotyping array for Arctic charr (Salvelinus alpinus)",
+  "Abstract": "Design and characterization of an 87k SNP genotyping array for Arctic charr (Salvelinus alpinus)",
+  "Scientific_Name": "Salvelinus alpinus",
+  "Common_Name": "Arctic char",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 951,
+  "N_markers": 86504,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.1371/journal.pone.0215008",
+  "Abstract.scraped": "Design and characterization of an 87k SNP genotyping array for Arctic charr (Salvelinus alpinus)"
+}

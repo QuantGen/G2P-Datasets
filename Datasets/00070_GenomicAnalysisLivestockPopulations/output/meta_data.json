@@ -1,0 +1,19 @@
+{
+  "ID": "0070",
+  "Folder": "00070_GenomicAnalysisLivestockPopulations",
+  "Sharing_Link": "https://academic.oup.com/g3journal/article/2/4/429/6026060?login=false#supplementary-data",
+  "Publication_link": "https://academic.oup.com/g3journal/article/2/4/429/6026060",
+  "Title": "A Common Dataset for Genomic Analysis of Livestock Populations",
+  "Abstract": null,
+  "Scientific_Name": "Sus scrofa",
+  "Common_Name": "Pigs",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": true,
+  "N_Geno": 3534,
+  "N_markers": 52843,
+  "Download_Instructions": "Go to Supplementary data and download the zip file",
+  "DOI": "https://doi.org/10.1534/g3.111.001453",
+  "Abstract.scraped": null
+}

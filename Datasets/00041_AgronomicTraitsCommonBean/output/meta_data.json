@@ -1,0 +1,19 @@
+{
+  "ID": "0041",
+  "Folder": "00041_AgronomicTraitsCommonBean",
+  "Sharing_Link": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XCD67U",
+  "Publication_link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.01001/full",
+  "Title": "Genomic Prediction of Agronomic Traits in Common Bean (Phaseolus vulgaris L.) Under Environmental Stress",
+  "Abstract": null,
+  "Scientific_Name": "Phaseolus vulgaris",
+  "Common_Name": "Common bean",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 481,
+  "N_markers": 5820,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.7910/DVN/XCD67U",
+  "Abstract.scraped": null
+}

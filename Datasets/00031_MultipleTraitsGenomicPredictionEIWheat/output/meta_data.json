@@ -1,0 +1,19 @@
+{
+  "ID": "0031",
+  "Folder": "00031_MultipleTraitsGenomicPredictionEIWheat",
+  "Sharing_Link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232665#sec019",
+  "Publication_link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232665",
+  "Title": "Use of multiple traits genomic prediction, genotype by environment interactions and spatial effect to improve prediction accuracy in yield data",
+  "Abstract": "Use of multiple traits genomic prediction, genotype by environment interactions and spatial effect to improve prediction accuracy in yield data | PLOS ONE",
+  "Scientific_Name": "Triticum aestivum",
+  "Common_Name": "Wheat",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 1325,
+  "N_markers": 11155,
+  "Download_Instructions": "Go to Supplementary information and Download S3 Data and S4 Data",
+  "DOI": "https://doi.org/10.1371/journal.pone.0232665",
+  "Abstract.scraped": "Use of multiple traits genomic prediction, genotype by environment interactions and spatial effect to improve prediction accuracy in yield data | PLOS ONE"
+}

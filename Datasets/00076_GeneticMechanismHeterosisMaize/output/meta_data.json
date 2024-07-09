@@ -1,0 +1,19 @@
+{
+  "ID": "0076",
+  "Folder": "00076_GeneticMechanismHeterosisMaize",
+  "Sharing_Link": "https://ftp.cngb.org/pub/CNSA/data3/CNP0001565/zeamap/99_MaizegoResources/01_CUBIC_related/",
+  "Publication_link": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02370-7",
+  "Title": "The genetic mechanism of heterosis utilization in maize improvement",
+  "Abstract": "Maize (Zea mays L.) is one of the most important cereal crops worldwide and serves as a model for heterosis research. The genetic mechanism of heterosis utilization in maize improvement has been widely studied, leading to the development of hybrid seed production as a successful breeding strategy. This review summarizes the current understanding of the genetic basis of heterosis in maize, focusing on key mechanisms such as dominance, overdominance, epistasis, and genomic imprinting. Additionally, recent advances in molecular and genomic technologies have provided new insights into the complex genetic networks underlying heterosis in maize, offering opportunities for further improvement of this important crop.",
+  "Scientific_Name": "Zea mays",
+  "Common_Name": "Maize",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 1428,
+  "N_markers": 4549828,
+  "Download_Instructions": "Genotype data - Dowload the data of 10 chromosomes in the hybrid42k folder; Phenotype data - Download *_hybrids.txt files for the years 2014 and 2015, and parent files if necessary.",
+  "DOI": "https://doi.org/10.1186/s13059-021-02370-7",
+  "Abstract.scraped": "Maize (Zea mays L.) is one of the most important cereal crops worldwide and serves as a model for heterosis research. The genetic mechanism of heterosis utilization in maize improvement has been widely studied, leading to the development of hybrid seed production as a successful breeding strategy. This review summarizes the current understanding of the genetic basis of heterosis in maize, focusing on key mechanisms such as dominance, overdominance, epistasis, and genomic imprinting. Additionally, recent advances in molecular and genomic technologies have provided new insights into the complex genetic networks underlying heterosis in maize, offering opportunities for further improvement of this important crop."
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "0039",
+  "Folder": "00039_SynthesisFloralAromaNacionalCocoa",
+  "Sharing_Link": "http://tropgenedb.cirad.fr/tropgene/JSP/interface.jsp?module=COCOA",
+  "Publication_link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2021.681979/full",
+  "Title": "Two Main Biosynthesis Pathways Involved in the Synthesis of the Floral Aroma of the Nacional Cocoa Variety",
+  "Abstract": "This publication discusses the two main biosynthesis pathways involved in the synthesis of the floral aroma of the Nacional cocoa variety.",
+  "Scientific_Name": "Theobroma cacao",
+  "Common_Name": "Cocoa tree",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 206,
+  "N_markers": 5337,
+  "Download_Instructions": "Select \"Cocoa Amazonia Ecuador aroma\" in the study field and download the data by CIRAD - INIAP Institute",
+  "DOI": "https://doi.org/10.3389/fpls.2021.681979",
+  "Abstract.scraped": "This publication discusses the two main biosynthesis pathways involved in the synthesis of the floral aroma of the Nacional cocoa variety."
+}

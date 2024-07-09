@@ -1,0 +1,19 @@
+{
+  "ID": "0074",
+  "Folder": "00074_GeneticHeterogeneityWholeGenomeRice",
+  "Sharing_Link": "http://www.ricediversity.org/data/",
+  "Publication_link": "https://academic.oup.com/genetics/article/201/1/323/5930096",
+  "Title": "Assessment of Genetic Heterogeneity in Structured Plant Populations Using Multivariate Whole-Genome Regression Models",
+  "Abstract": "Genome-wide association mapping reveals a rich genetic architecture of complex traits in Oryza sativa",
+  "Scientific_Name": "Oriza sativa",
+  "Common_Name": "Rice",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": true,
+  "Pedigree": false,
+  "N_Geno": 413,
+  "N_markers": 73802,
+  "Download_Instructions": "Download the data under 44K SNP set",
+  "DOI": "https://doi.org/10.1038/ncomms1467",
+  "Abstract.scraped": "Genome-wide association mapping reveals a rich genetic architecture of complex traits in Oryza sativa"
+}

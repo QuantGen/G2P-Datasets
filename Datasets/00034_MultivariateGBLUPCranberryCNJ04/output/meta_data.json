@@ -1,0 +1,19 @@
+{
+  "ID": "0034",
+  "Folder": "00034_MultivariateGBLUPCranberryCNJ04",
+  "Sharing_Link": "https://www.frontiersin.org/articles/10.3389/fpls.2018.01310/full#supplementary-material",
+  "Publication_link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2018.01310/full",
+  "Title": "Multivariate GBLUP Improves Accuracy of Genomic Selection for Yield and Fruit Weight in Biparental Populations of Vaccinium macrocarpon Ait",
+  "Abstract": "Multivariate GBLUP Improves Accuracy of Genomic Selection for Yield and Fruit Weight in Biparental Populations of Vaccinium macrocarpon Ait.",
+  "Scientific_Name": "Vaccinium macrocarpon",
+  "Common_Name": "American Cranberry",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 71,
+  "N_markers": 2957,
+  "Download_Instructions": "Go to Supplementary Material and Download SF1 file(Table 1)",
+  "DOI": "https://doi.org/10.3389/fpls.2018.01310",
+  "Abstract.scraped": "Multivariate GBLUP Improves Accuracy of Genomic Selection for Yield and Fruit Weight in Biparental Populations of Vaccinium macrocarpon Ait."
+}

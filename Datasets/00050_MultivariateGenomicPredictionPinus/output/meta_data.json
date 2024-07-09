@@ -1,0 +1,19 @@
+{
+  "ID": "0050",
+  "Folder": "00050_MultivariateGenomicPredictionPinus",
+  "Sharing_Link": "https://zenodo.org/records/4040042",
+  "Publication_link": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.499094/full#h7",
+  "Title": "Marker Selection in Multivariate Genomic Prediction Improves Accuracy of Low Heritability Traits",
+  "Abstract": null,
+  "Scientific_Name": "Pinus",
+  "Common_Name": "Pine",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": true,
+  "N_Geno": 523,
+  "N_markers": 80160,
+  "Download_Instructions": null,
+  "DOI": "https://zenodo.org/doi/10.5281/zenodo.4040041",
+  "Abstract.scraped": null
+}

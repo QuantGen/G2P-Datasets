@@ -1,0 +1,10 @@
+# Genomic prediction enables rapid selection of high-performing genets in an intermediate wheatgrass breeding program
+
+This publication discusses the In an era of constrained and depleted natural resources, perennial grains could provide sustainable food production in addition to beneficial ecosystem services like reduced erosion and increased atmospheric carbon capture. One such perennial, intermediate wheatgrass (IWG; Thinopyrum intermedium) has been undergoing continuous breeding for domestication and improvement to develop a perennial grain crop since the 1980’s. However, as a perennial species, IWG has required 2-5 years per selection generation. Therefore, starting in 2017 genomic selection was initiated in the breeding program at The Land Institute, Salina, KS, enabling one complete cycle per year. For each cycle, ~4,000 seedlings were profiled using genotyping-by-sequencing and genomic estimated breeding values were calculated. Selection identified 100 individuals to advance as parents each generation, while validation populations for model updating consisting of 1,000-1,200 were also selected. The crossing block populations were randomly intermated in a greenhouse to form the subsequent cycle, while the validation populations were transplanted to irrigated and non-irrigated field sites for phenotypic evaluations in the following years. For priority breeding traits of seed mass, free threshing, and non-shattering, correlations between predicted values and observed data were greater than 0.51 and all traits ranged from 0.02-0.76. The realized selection differential ranged from 19-23% for selected traits, and the expected genetic gains for these traits, including spike yield, ranged from 5-15% per year. Genomic selection is a powerful tool to speed the domestication and development of intermediate wheatgrass and likely other perennial crops with extended breeding timelines.
+It contains  genotypes and  markers.
+
+Title: Genomic prediction enables rapid selection of high-performing genets in an intermediate wheatgrass breeding program
+Scientific name: 
+DOI: https://doi.org/10.5061/dryad.zw3r2285n
+Has phenotype 
+

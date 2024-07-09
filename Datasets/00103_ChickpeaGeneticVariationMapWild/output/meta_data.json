@@ -1,0 +1,19 @@
+{
+  "ID": "0103",
+  "Folder": "00103_ChickpeaGeneticVariationMapWild",
+  "Sharing_Link": "https://cegresources.icrisat.org/cicerseq/?page_id=3444",
+  "Publication_link": "https://www.nature.com/articles/s41586-021-04066-1",
+  "Title": "A chickpea genetic variation map based on the sequencing of 3,366 genomes",
+  "Abstract": "A chickpea genetic variation map based on the sequencing of 3,366 genomes",
+  "Scientific_Name": "Cicer reticulatum",
+  "Common_Name": "Wild chickpea",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 195,
+  "N_markers": 19574878,
+  "Download_Instructions": "Download data under Wild cicer species SNPs. For phenotypic data; download Phenotypic data file and read sheet 1 to explore the phenotypic data.",
+  "DOI": "https://doi.org/10.1038/s41586-021-04066-1",
+  "Abstract.scraped": "A chickpea genetic variation map based on the sequencing of 3,366 genomes"
+}

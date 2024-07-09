@@ -1,0 +1,19 @@
+{
+  "ID": "0104",
+  "Folder": "00104_ChickpeaGeneticVariationMapCultivated",
+  "Sharing_Link": "https://cegresources.icrisat.org/cicerseq/?page_id=3444",
+  "Publication_link": "https://www.nature.com/articles/s41586-021-04066-1",
+  "Title": "A chickpea genetic variation map based on the sequencing of 3,366 genomes",
+  "Abstract": "A chickpea genetic variation map based on the sequencing of 3,366 genomes",
+  "Scientific_Name": "Cicer arietinum",
+  "Common_Name": "Chickpea",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 3171,
+  "N_markers": 3941492,
+  "Download_Instructions": "Download data under Cultivated cicer species SNPs. For phenotypic data; download Phenotypic data file and read sheet 1 to explore the phenotypic data.",
+  "DOI": "https://doi.org/10.1038/s41586-021-04066-1",
+  "Abstract.scraped": "A chickpea genetic variation map based on the sequencing of 3,366 genomes"
+}

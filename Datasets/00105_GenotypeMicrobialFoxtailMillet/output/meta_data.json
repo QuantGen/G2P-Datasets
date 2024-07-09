@@ -1,0 +1,19 @@
+{
+  "ID": "0105",
+  "Folder": "00105_GenotypeMicrobialFoxtailMillet",
+  "Sharing_Link": "https://zenodo.org/records/7018179",
+  "Publication_link": "https://www.nature.com/articles/s41467-022-33238-4",
+  "Title": "GWAS, MWAS and mGWAS provide insights into precision agriculture based on genotype-dependent microbial effects in foxtail millet",
+  "Abstract": "Foxtail millet data analysis\nFull Changelog: https://github.com/wyy2017/Foxtail-millet-data-analysis/commits/V1",
+  "Scientific_Name": "Setaria italica",
+  "Common_Name": "Foxtail millet",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 827,
+  "N_markers": 161562,
+  "Download_Instructions": "Download the data and unzip it. For more Information on Phenotypic data, read the markdown file under Figure2 Folder.",
+  "DOI": "https://doi.org/10.5281/zenodo.7018178",
+  "Abstract.scraped": "Foxtail millet data analysis\nFull Changelog: https://github.com/wyy2017/Foxtail-millet-data-analysis/commits/V1"
+}

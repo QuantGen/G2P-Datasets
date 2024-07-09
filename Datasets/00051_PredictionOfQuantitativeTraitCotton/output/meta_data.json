@@ -1,0 +1,19 @@
+{
+  "ID": "0051",
+  "Folder": "00051_PredictionOfQuantitativeTraitCotton",
+  "Sharing_Link": "https://frontiersin.figshare.com/articles/dataset/Table_8_Accurate_Prediction_of_a_Quantitative_Trait_Using_the_Genes_Controlling_the_Trait_for_Gene-Based_Breeding_in_Cotton_XLSX/13206440/1",
+  "Publication_link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.583277/full",
+  "Title": "Accurate Prediction of a Quantitative Trait Using the Genes Controlling the Trait for Gene-Based Breeding in Cotton",
+  "Abstract": "Accurate Prediction of a Quantitative Trait Using the Genes Controlling the Trait for Gene-Based Breeding in Cotton",
+  "Scientific_Name": "Gossypium",
+  "Common_Name": "Cotton",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 198,
+  "N_markers": 226,
+  "Download_Instructions": null,
+  "DOI": "https://doi.org/10.3389/fpls.2020.583277",
+  "Abstract.scraped": "Accurate Prediction of a Quantitative Trait Using the Genes Controlling the Trait for Gene-Based Breeding in Cotton"
+}
