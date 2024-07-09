@@ -1,0 +1,19 @@
+{
+  "ID": "0004",
+  "Folder": "00004_AvenaSativaGenomicData",
+  "Sharing_Link": "https://github.com/malachycampbell/TGRM_frontiers",
+  "Publication_link": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.643733/full",
+  "Title": "Avena sativa genomic data",
+  "Abstract": "Improving Genomic Prediction for Seed Quality Traits in Oat (Avena sativa L.) Using Trait-Specific Relationship Matrices.",
+  "Scientific_Name": "Avena sativa",
+  "Common_Name": "Oat",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 336,
+  "N_markers": 62003,
+  "Download_Instructions": "Download DivPanel_markers.txt.zip and unzip",
+  "DOI": "https://doi.org/10.3389/fgene.2021.643733",
+  "Abstract.scraped": "Improving Genomic Prediction for Seed Quality Traits in Oat (Avena sativa L.) Using Trait-Specific Relationship Matrices."
+}

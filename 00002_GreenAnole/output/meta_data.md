@@ -1,0 +1,12 @@
+# Anolis carolinensis character displacement SNP
+
+This publication discusses the Here are six files that provide details for all 44,120 identified single nucleotide polymorphisms (SNPs) or the 215 outlier SNPs associated with the evolution of rapid character displacement among replicate islands with (2Spp) and without competition (1Spp) between two Anolis species. On 2Spp islands, A. carolinensis occurs higher in trees and have evolved larger toe pads. Among 1Spp and 2Spp island populations, we identify 44,120 SNPs, with 215-outlier SNPs with improbably large FST values, low nucleotide variation, greater linkage than expected, and these SNPs are enriched for animal walking behavior. Thus, we conclude that these 215-outliers are evolving by natural selection in response to the phenotypic convergent evolution of character displacement. There are two, non-mutually exclusive perspective of these nucleotide variants. One is character displacement is convergent: all 215 outlier SNPs are shared among 3 out of 5 2Spp island and 24% of outlier SNPS are shared among all five out of five 2Spp island. Second, character displacement is genetically redundant because the allele frequencies in one or more 2Spp are similar to 1Spp islands: among one or more 2Spp islands 33% of outlier SNPS are within the range of 1Spp MiAF and 76% of outliers are more similar to 1Spp island than mean MiAF of 2Spp islands. Focusing on convergence SNP is scientifically more robust, yet it distracts from the perspective of multiple genetic solutions that enhances the rate and stability of adaptive change.
+The six files include: a description of eight islands, details of 94 individuals, and four files on SNPs. The four SNP files include the VCF files for 94 individuals with 44KSNPs and two files (Excel sheet/tab-delimited file) with FST, p-values and outlier status for all 44,120 identified single nucleotide polymorphisms (SNPs) associated with the evolution of rapid character displacement. The sixth file is a detailed file on the 215 outlier SNPs.
+Complete sequence data is available at Bioproject PRJNA833453, which including samples not included in this study. The 94 individuals used in this study are described in "Supplemental_Sample_description.txt".
+It contains  genotypes and  markers.
+
+Title: Anolis carolinensis character displacement SNP
+Scientific name: 
+DOI: https://doi.org/10.5061/dryad.qbzkh18ks
+Has phenotype 
+

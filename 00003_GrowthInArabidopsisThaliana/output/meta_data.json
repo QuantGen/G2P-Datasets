@@ -1,0 +1,19 @@
+{
+  "ID": "0003",
+  "Folder": "00003_GrowthInArabidopsisThaliana",
+  "Sharing_Link": "https://git.wur.nl/faroo002/pub1",
+  "Publication_link": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.609117/full",
+  "Title": "Growth-Related Traits in Arabidopsis thaliana",
+  "Abstract": "Prior Biological Knowledge Improves Genomic Prediction of Growth-Related Traits in Arabidopsis thaliana",
+  "Scientific_Name": "Arabidopsis thaliana",
+  "Common_Name": "Thale cress",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": true,
+  "Pedigree": false,
+  "N_Geno": 344,
+  "N_markers": 207982,
+  "Download_Instructions": "Go to folder \"data/\", download only needed files.",
+  "DOI": "https://doi.org/10.3389/fgene.2020.609117",
+  "Abstract.scraped": "Prior Biological Knowledge Improves Genomic Prediction of Growth-Related Traits in Arabidopsis thaliana"
+}

@@ -1,0 +1,19 @@
+{
+  "ID": "0019",
+  "Folder": "00019_CRANWheatData",
+  "Sharing_Link": "https://search.r-project.org/CRAN/refmans/BGLR/html/wheat.html",
+  "Publication_link": null,
+  "Title": "BGLR: Bayesian Generalized Linear Regression",
+  "Abstract": null,
+  "Scientific_Name": "Triticum aestivum",
+  "Common_Name": "Wheat",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 599,
+  "N_markers": 1279,
+  "Download_Instructions": null,
+  "DOI": null,
+  "Abstract.scraped": null
+}
