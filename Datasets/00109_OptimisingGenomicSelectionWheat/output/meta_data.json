@@ -1,0 +1,18 @@
+{
+  "Folder": "00109_OptimisingGenomicSelectionWheat",
+  "DOI": "https://doi.org/10.1534/g3.118.200311",
+  "Publication_link": "https://academic.oup.com/g3journal/article/8/9/2889/6027035",
+  "Title": "Optimising Genomic Selection in Wheat: Effect of Marker Density, Population Size and Population Structure on Prediction Accuracy",
+  "Abstract": "Genomic selection applied to plant breeding enables earlier estimates of a line’s performance and significant reductions in generation interval. Several factors affecting prediction accuracy should be well understood if breeders are to harness genomic selection to its full potential. We used a panel of 10,375 bread wheat (Triticum aestivum) lines genotyped with 18,101 SNP markers to investigate the effect and interaction of training set size, population structure and marker density on genomic prediction accuracy. Through assessing the effect of training set size we showed the rate at which prediction accuracy increases is slower beyond approximately 2,000 lines. The structure of the panel was assessed via principal component analysis and K-means clustering, and its effect on prediction accuracy was examined through a novel cross-validation analysis according to the K-means clusters and breeding cohorts. Here we showed that accuracy can be improved by increasing the diversity within the training set, particularly when relatedness between training and validation sets is low. The breeding cohort analysis revealed that traits with higher selection pressure (lower allelic diversity) can be more accurately predicted by including several previous cohorts in the training set. The effect of marker density and its interaction with population structure was assessed for marker subsets containing between 100 and 17,181 markers. This analysis showed that response to increased marker density is largest when using a diverse training set to predict between poorly related material. These findings represent a significant resource for plant breeders and contribute to the collective knowledge on the optimal structure of calibration panels for genomic prediction.",
+  "Scientific_Name": "Triticum aestivum",
+  "Common_Name": "Wheat",
+  "Sharing_Link": "https://figshare.com/s/287c2c7f1623008487a5?file=12124799",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 10375,
+  "N_markers": 17181,
+  "Download_Instructions": "Download File S4 and File S5",
+  "Tags": "genomic selection; plant breeding; SNP markers; prediction accuracy; population structure; marker density; training set size; wheat genomics"
+}
