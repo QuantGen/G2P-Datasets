@@ -1,10 +1,15 @@
 # Target-oriented prioritization: targeted selection strategy by integrating organismal and molecular traits through predictive analytics in breeding
 
-This publication discusses the Folder Data_TOP contains four sets of data, NCII, Maize 368 , Maize 282 and Rice 210, used in the article entitled "Target-Oriented Prioritization: targeted selection strategy by integrating organismal and molecular traits through predictive analytics in breeding".The maize NCII population consists of 5,820 F1 hybrids with 156,269 SNPs and 18 agronomic traits.Maize 368 was characterized with 100K SNPs, 20 agronomic traits and 749 metabolic traits.Maize 282 was genotyped with 50878 SNPs and phenotyped for 21 agronomic traits and 37127 transcriptomic traits from seven tissues.The Rice 210 dataset consists of 1619 bins, 4 agronomic traits, 24,994 gene expressions and 1000 metabolic traits.
-It contains  genotypes and  markers.
+This publication discusses: Genomic prediction in crop breeding is hindered by modeling on limited phenotypic traits. We propose an integrative multi-trait breeding strategy via machine learning algorithm, target-oriented prioritization (TOP). Using a large hybrid maize population, we demonstrate that the accuracy for identifying a candidate that is phenotypically closest to an ideotype, or target variety, achieves up to 91%. The strength of TOP is enhanced when omics level traits are included. We show that TOP enables selection of inbreds or hybrids that outperform existing commercial varieties. It improves multiple traits and accurately identifies improved candidates for new varieties, which will greatly influence breeding.
+
+It contains 5820 genotypes and 156269 markers.
 
 Title: Target-oriented prioritization: targeted selection strategy by integrating organismal and molecular traits through predictive analytics in breeding
-Scientific name: 
+
+Scientific name: Zea mays
+
+Common name: Maize
+
 DOI: https://doi.org/10.6084/m9.figshare.19312205.v1
-Has phenotype 
+
 

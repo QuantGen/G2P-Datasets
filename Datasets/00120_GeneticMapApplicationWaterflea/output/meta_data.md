@@ -1,6 +1,6 @@
 # An SNP-based second-generation genetic map of Daphnia magna and its application to QTL analysis of phenotypic traits
 
-This publication discusses the Background
+This publication discusses: Background
 Although Daphnia is increasingly recognized as a model for ecological genomics and biomedical research, there is, as of yet, no high-resolution genetic map for the genus. Such a map would provide an important tool for mapping phenotypes and assembling the genome. Here we estimate the genome size of Daphnia magna and describe the construction of an SNP array based linkage map. We then test the suitability of the map for life history and behavioural trait mapping. The two parent genotypes used to produce the map derived from D. magna populations with and without fish predation, respectively and are therefore expected to show divergent behaviour and life-histories.
 
 Results
@@ -12,7 +12,11 @@ The new linkage map of D. magna constructed here allowed us to characterize gene
 It contains 353 genotypes and 1324 markers.
 
 Title: An SNP-based second-generation genetic map of Daphnia magna and its application to QTL analysis of phenotypic traits
+
 Scientific name: Daphnia magna
+
 Common name: Water flea
+
 DOI: https://doi.org/10.5061/dryad.qk8fj
+
 

@@ -1,19 +1,18 @@
 {
-  "ID": "0022",
   "Folder": "00022_GenomicPredictionModelTraitsRice",
-  "Sharing_Link": "https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03479-y#Sec18",
+  "DOI": "https://doi.org/10.1186/s12870-022-03479-y",
   "Publication_link": "https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03479-y#Abs1",
   "Title": "Genomic prediction models for traits differing in heritability for soybean, rice, and maize",
-  "Abstract": "Genomic prediction models for traits differing in heritability for soybean, rice, and maize",
+  "Abstract": "Background\r\n\r\nGenomic selection is a powerful tool in plant breeding. By building a prediction model using a training set with markers and phenotypes, genomic estimated breeding values (GEBVs) can be used as predictions of breeding values in a target set with only genotype data. There is, however, limited information on how prediction accuracy of genomic prediction can be optimized. The objective of this study was to evaluate the performance of 11 genomic prediction models across species in terms of prediction accuracy for two traits with different heritabilities using several subsets of markers and training population proportions. Species studied were maize (Zea mays, L.), soybean (Glycine max, L.), and rice (Oryza sativa, L.), which vary in linkage disequilibrium (LD) decay rates and have contrasting genetic architectures.\r\n\r\n\r\n\r\nResults\r\n\r\nCorrelations between observed and predicted GEBVs were determined via cross validation for three training-to-testing proportions (90:10, 70:30, and 50:50). Maize, which has the shortest extent of LD, showed the highest prediction accuracy. Amongst all the models tested, Bayes B performed better than or equal to all other models for each trait in all the three crops. Traits with higher broad-sense and narrow-sense heritabilities were associated with higher prediction accuracy. When subsets of markers were selected based on LD, the accuracy was similar to that observed from the complete set of markers. However, prediction accuracies were significantly improved when using a subset of total markers that were significant at P‚Äâ‚â§‚Äâ0.05 or P‚Äâ‚â§‚Äâ0.10. As expected, exclusion of QTL-associated markers in the model reduced prediction accuracy. Prediction accuracy varied among different training population proportions.\r\n\r\n\r\n\r\nConclusions\r\n\r\nWe conclude that prediction accuracy for genomic selection can be improved by using the Bayes B model with a subset of significant markers and by selecting the training population based on narrow sense heritability.",
   "Scientific_Name": "Oriza sativa",
   "Common_Name": "Rice",
+  "Sharing_Link": "https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03479-y#Sec18",
   "Requires_Authorization": false,
   "Phenotype": true,
   "Map": false,
   "Pedigree": false,
   "N_Geno": 352,
   "N_markers": 36901,
-  "Download_Instructions": "Go to Supplementary Information and Download Additional file 3",
-  "DOI": "https://doi.org/10.1186/s12870-022-03479-y",
-  "Abstract.scraped": "Genomic prediction models for traits differing in heritability for soybean, rice, and maize"
+  "Download_Instructions": "Go to Supplementary Information of the article and Download Additional file 3",
+  "Tags": "genomic selection; plant breeding; prediction models; marker subsets; training population; heritability; Bayes B model; cross-validation"
 }

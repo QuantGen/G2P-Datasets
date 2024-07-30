@@ -1,10 +1,15 @@
 # The Global Durum Wheat Panel (GDP): An International Platform to Identify and Exchange Beneficial Alleles
 
-This publication discusses the NA
-It contains  genotypes and  markers.
+This publication discusses: Representative, broad and diverse collections are a primary resource to dissect genetic diversity and meet pre-breeding and breeding goals through the identification of beneficial alleles for target traits. From 2,500 tetraploid wheat accessions obtained through an international collaborative effort, a Global Durum wheat Panel (GDP) of 1,011 genotypes was assembled that captured 94‚Äì97% of the original diversity. The GDP consists of a wide representation of Triticum turgidum ssp. durum modern germplasm and landraces, along with a selection of emmer and primitive tetraploid wheats to maximize diversity. GDP accessions were genotyped using the wheat iSelect 90K SNP array. Among modern durum accessions, breeding programs from Italy, France and Central Asia provided the highest level of genetic diversity, with only a moderate decrease in genetic diversity observed across nearly 50 years of breeding (1970‚Äì2018). Further, the breeding programs from Europe had the largest sets of unique alleles. LD was lower in the landraces (0.4 Mbp) than in modern germplasm (1.8 Mbp) at r2 = 0.5. ADMIXTURE analysis of modern germplasm defined a minimum of 13 distinct genetic clusters (k), which could be traced to the breeding program of origin. Chromosome regions putatively subjected to strong selection pressure were identified from fixation index (Fst) and diversity reduction index (DRI) metrics in pairwise comparisons among decades of release and breeding programs. Clusters of putative selection sweeps (PSW) were identified as co-localized with major loci controlling phenology (Ppd and Vrn), plant height (Rht) and quality (gliadins and glutenins), underlining the role of the corresponding genes as driving elements in modern breeding. Public seed availability and deep genetic characterization of the GDP make this collection a unique and ideal resource to identify and map useful genetic diversity at loci of interest to any breeding program.
+
+It contains 1028 genotypes and 44536 markers.
 
 Title: The Global Durum Wheat Panel (GDP): An International Platform to Identify and Exchange Beneficial Alleles
-Scientific name: 
+
+Scientific name: Triticum turgidum
+
+Common name: Wheat
+
 DOI: https://doi.org/10.1093/database/baac034
-Has phenotype 
+
 

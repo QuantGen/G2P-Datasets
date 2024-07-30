@@ -1,19 +1,18 @@
 {
-  "ID": "0049",
   "Folder": "00049_MultivariateGenomicPredictionEucalyptus",
-  "Sharing_Link": "https://zenodo.org/records/4040042",
-  "Publication_link": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.499094/full#h7",
+  "DOI": "https://zenodo.org/doi/10.5281/zenodo.4040041",
+  "Publication_link": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.499094/full",
   "Title": "Marker Selection in Multivariate Genomic Prediction Improves Accuracy of Low Heritability Traits",
-  "Abstract": null,
+  "Abstract": "Multivariate analysis using mixed models allows for the exploration of genetic correlations between traits. Additionally, the transition to a genomic based approach is simplified by substituting classic pedigrees with a marker-based relationship matrix. It also enables the investigation of correlated responses to selection, trait integration and modularity in different kinds of populations. This study investigated a strategy for the construction of a marker-based relationship matrix that prioritized markers using Partial Least Squares. The efficiency of this strategy was found to depend on the correlation structure between investigated traits. In terms of accuracy, we found no benefit of this strategy compared with the all-marker-based multivariate model for the primary trait of diameter at breast height (DBH) in a radiata pine (Pinus radiata) population, possibly due to the presence of strong and well-estimated correlation with other highly heritable traits. Conversely, we did see benefit in a shining gum (Eucalyptus nitens) population, where the primary trait had low or only moderate genetic correlation with other low/moderately heritable traits. Marker selection in multivariate analysis can therefore be an efficient strategy to improve prediction accuracy for low heritability traits due to improved precision in poorly estimated low/moderate genetic correlations. Additionally, our study identified the genetic diversity as a factor contributing to the efficiency of marker selection in multivariate approaches due to higher precision of genetic correlation estimates.",
   "Scientific_Name": "Eucalyptus nitens",
   "Common_Name": "Shining gum",
+  "Sharing_Link": "https://zenodo.org/records/4040042",
   "Requires_Authorization": false,
   "Phenotype": true,
   "Map": false,
   "Pedigree": false,
   "N_Geno": 691,
   "N_markers": 58324,
-  "Download_Instructions": null,
-  "DOI": "https://zenodo.org/doi/10.5281/zenodo.4040041",
-  "Abstract.scraped": null
+  "Download_Instructions": "NA",
+  "Tags": "genetic correlations; genomic selection; marker-based relationship matrix; multivariate analysis; Partial Least Squares; trait integration; genetic diversity; prediction accuracy"
 }

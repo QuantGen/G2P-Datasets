@@ -1,19 +1,18 @@
 {
-  "ID": "0059",
   "Folder": "00059_DesignCharacterizationArcticCharr",
-  "Sharing_Link": "https://figshare.com/articles/dataset/Design_and_characterization_of_an_87k_SNP_genotyping_array_for_Arctic_charr_i_Salvelinus_alpinus_i_/7959782",
+  "DOI": "https://doi.org/10.1371/journal.pone.0215008",
   "Publication_link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215008",
   "Title": "Design and characterization of an 87k SNP genotyping array for Arctic charr (Salvelinus alpinus)",
-  "Abstract": "Design and characterization of an 87k SNP genotyping array for Arctic charr (Salvelinus alpinus)",
+  "Abstract": "We have generated a high-density, high-throughput genotyping array for characterizing genome-wide variation in Arctic charr (Salvelinus alpinus). Novel single nucleotide polymorphisms (SNPs) were identified in charr from the Fraser, Nauyuk and Tree River aquaculture strains, which originated from northern Canada and fish from Iceland using high coverage sequencing, reduced representation sequencing and RNA-seq datasets. The array was designed to capture genome-wide variation from a diverse suite of Arctic charr populations. Cross validation of SNPs from various sources and comparison with previously published Arctic charr SNP data provided a set of candidate SNPs that generalize across populations. Further candidate SNPs were identified based on minor allele frequency, association with RNA transcripts, even spacing across intergenic regions and association with the sex determining (sdY) gene. The performance of the 86,503 SNP array was assessed by genotyping Fraser, Nauyuk and Tree River strain individuals, as well as wild Icelandic Arctic charr. Overall, 63,060 of the SNPs were polymorphic within at least one group and 36.8% were unique to one of the four groups, suggesting that the array design allows for characterization of both within and across population genetic diversity. The concordance between sdY markers and known phenotypic sex indicated that the array can accurately determine the sex of individuals based on genotype alone. The Salp87k genotyping array provides researchers and breeders the opportunity to analyze genetic variation in Arctic charr at a more detailed level than previously possible",
   "Scientific_Name": "Salvelinus alpinus",
   "Common_Name": "Arctic char",
+  "Sharing_Link": "https://figshare.com/articles/dataset/Design_and_characterization_of_an_87k_SNP_genotyping_array_for_Arctic_charr_i_Salvelinus_alpinus_i_/7959782",
   "Requires_Authorization": false,
   "Phenotype": false,
   "Map": false,
   "Pedigree": false,
   "N_Geno": 951,
   "N_markers": 86504,
-  "Download_Instructions": null,
-  "DOI": "https://doi.org/10.1371/journal.pone.0215008",
-  "Abstract.scraped": "Design and characterization of an 87k SNP genotyping array for Arctic charr (Salvelinus alpinus)"
+  "Download_Instructions": "NA",
+  "Tags": "genomics; SNP array; Arctic charr; genetic diversity; aquaculture; RNA-seq; population genetics; sex determination"
 }

@@ -1,6 +1,6 @@
 # Estimating genomic diversity and population differentiation – an empirical comparison of microsatellite and SNP variation in Arabidopsis halleri
 
-This publication discusses the Background
+This publication discusses: Background
 Microsatellite markers are widely used for estimating genetic diversity within and differentiation among populations. However, it has rarely been tested whether such estimates are useful proxies for genome-wide patterns of variation and differentiation. Here, we compared microsatellite variation with genome-wide single nucleotide polymorphisms (SNPs) to assess and quantify potential marker-specific biases and derive recommendations for future studies. Overall, we genotyped 180 Arabidopsis halleri individuals from nine populations using 20 microsatellite markers. Twelve of these markers were originally developed for Arabidopsis thaliana (cross-species markers) and eight for A. halleri (species-specific markers). We further characterized 2 million SNPs across the genome with a pooled whole-genome re-sequencing approach (Pool-Seq).
 
 Results
@@ -12,7 +12,11 @@ We recommend that future analyses of genetic diversity within and differentiatio
 It contains 180 genotypes and 2178204 markers.
 
 Title: Estimating genomic diversity and population differentiation – an empirical comparison of microsatellite and SNP variation in Arabidopsis halleri
+
 Scientific name: Arabidopsis halleri
+
 Common name: Haller's Alyssum
+
 DOI: https://doi.org/10.5061/dryad.11jp5
+
 

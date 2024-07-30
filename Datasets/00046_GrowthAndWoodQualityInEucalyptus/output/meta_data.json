@@ -1,12 +1,12 @@
 {
-  "ID": "0046",
   "Folder": "00046_GrowthAndWoodQualityInEucalyptus",
-  "Sharing_Link": "https://figshare.com/articles/dataset/Genomic_relationships-based_genetic_parameters_and_prospects_of_genomic_selection_for_growth_and_wood_quality_traits_in_Eucalyptus_benthamii_-_SNPdata/14806449 - https://figshare.com/articles/dataset/Genomic_relationships-based_genetic_parameters_and_prospects_of_genomic_selection_for_growth_and_wood_quality_traits_in_Eucalyptus_benthamii_-_PhenoData/14807916",
+  "DOI": "https://doi.org/10.6084/m9.figshare.14806449 - https://doi.org/10.6084/m9.figshare.14807916",
   "Publication_link": "https://link.springer.com/article/10.1007/s11295-021-01516-9",
-  "Title": "Genomic relationshipâ€“based genetic parameters and prospects of genomic selection for growth and wood quality traits in Eucalyptus benthamii",
-  "Abstract": null,
+  "Title": "Genomic relationship - based genetic parameters and prospects of genomic selection for growth and wood quality traits in Eucalyptus benthamii",
+  "Abstract": "The unique adaptation of Eucalyptus benthamii to low temperatures coupled to fast growth and versatile wood quality has made it a valued plantation species in frost-prone areas worldwide, but little is known on its quantitative genetic parameters for key industrial traits. We used GBLUP additive (GA), additive-dominant (GAD), single-step (HBLUP), and pedigree-based predictive models to estimate lignin, extractives, carbohydrates, and wood density at age 4 and tree volume at age 6. By capturing hidden relatedness and correcting pedigree errors, SNP data disentangled non-additive from additive variance providing more realistic estimates of narrow-sense heritability than pedigrees, and more accurate predictions of trait values. Predictive abilities (PAs) ranged from 0.12 for volume (pedigree-based model) to 0.44 for wood density (models H, GA, and GAD). Considerable dominance variance was seen for all traits, growth was the trait most influenced by it, resulting in PAs 48.9% higher when this effect is considered, a result with important consequences both for clonal propagation and overall selection efficiency (Seff). Using a HBLUP model, phenotypes of non-genotyped trees increased PAs by increasing sample size and provided realized relationships with reduced genotyping cost. In a recurrent selection program, the preclusion of progeny testing provides an increase in Seff between 232% and 299%. In a clonal selection program, the elimination of both progeny and initial clonal trial may increase Seff between 134% and 277%. Increasing selection intensity by genomic prediction resulted in an additional impact on Seff. This study provides groundwork to implement genomic selection in E. benthamii breeding.\r\n\r\n",
   "Scientific_Name": "Eucalyptus benthamii",
   "Common_Name": "Camden White Gum",
+  "Sharing_Link": "https://figshare.com/articles/dataset/Genomic_relationships-based_genetic_parameters_and_prospects_of_genomic_selection_for_growth_and_wood_quality_traits_in_Eucalyptus_benthamii_-_SNPdata/14806449 - https://figshare.com/articles/dataset/Genomic_relationships-based_genetic_parameters_and_prospects_of_genomic_selection_for_growth_and_wood_quality_traits_in_Eucalyptus_benthamii_-_PhenoData/14807916",
   "Requires_Authorization": false,
   "Phenotype": true,
   "Map": false,
@@ -14,6 +14,5 @@
   "N_Geno": 672,
   "N_markers": 60728,
   "Download_Instructions": "Two data links, one for Genotyoe data and the other for Phenotype data.",
-  "DOI": "https://doi.org/10.6084/m9.figshare.14806449 - https://doi.org/10.6084/m9.figshare.14807916",
-  "Abstract.scraped": null
+  "Tags": "genomic selection; Eucalyptus benthamii; quantitative genetics; wood quality traits; predictive modeling; heritability; clonal propagation; selection efficiency"
 }

@@ -1,6 +1,6 @@
 # Strong genetic structure in a widespread estuarine crab: A test of potential versus realized dispersal
 
-This publication discusses the Aim: Genetic structure has proven difficult to predict for marine and estuarine species with multi-day pelagic larval durations, since many disperse far less than expected based on passive transport models. In such cases, the gap between potential and realized dispersal may result from larval behaviors that evolved to facilitate retention and settlement in favorable environments. Behavior is predicted to play a particularly key role in structuring truly estuarine species, which often moderate their behavior to remain within their natal estuaries. In such systems, this restricted dispersal may lead to high divergence, local adaptation, and eventual speciation across their range. Here, we test whether a geographically widespread estuarine crab, known to have behavior promoting larval retention, exhibits high population structure despite a 2-4 week larval duration.
+This publication discusses: Aim: Genetic structure has proven difficult to predict for marine and estuarine species with multi-day pelagic larval durations, since many disperse far less than expected based on passive transport models. In such cases, the gap between potential and realized dispersal may result from larval behaviors that evolved to facilitate retention and settlement in favorable environments. Behavior is predicted to play a particularly key role in structuring truly estuarine species, which often moderate their behavior to remain within their natal estuaries. In such systems, this restricted dispersal may lead to high divergence, local adaptation, and eventual speciation across their range. Here, we test whether a geographically widespread estuarine crab, known to have behavior promoting larval retention, exhibits high population structure despite a 2-4 week larval duration.
 
 Location: Atlantic and Gulf Coasts of North America Taxon: White-fingered mud crab, Rhithropanopeus harrisii
 
@@ -13,7 +13,11 @@ Main conclusions: These results indicate substantial and longstanding constraint
 It contains 78 genotypes and 12638 markers.
 
 Title: Strong genetic structure in a widespread estuarine crab: A test of potential versus realized dispersal
+
 Scientific name: Rhithropanopeus harrisii
+
 Common name: White-fingered mud crab
+
 DOI: https://doi.org/10.5061/dryad.qnk98sfd1
+
 

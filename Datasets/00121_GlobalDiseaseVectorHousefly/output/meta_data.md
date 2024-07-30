@@ -1,6 +1,6 @@
 # Integrated genome-wide investigations of the housefly, a global vector of diseases reveal unique dispersal patterns and bacterial communities across farms
 
-This publication discusses the Background
+This publication discusses: Background
 Houseflies (Musca domestica L.) live in intimate association with numerous microorganisms and is a vector of human pathogens. In temperate areas, houseflies will overwinter in environments constructed by humans and recolonize surrounding areas in early summer. However, the dispersal patterns and associated bacteria across season and location are unclear. We used genotyping-by-sequencing (GBS) for the simultaneous identification and genotyping of thousands of Single Nucleotide Polymorphisms (SNPs) to establish dispersal patterns of houseflies across farms. Secondly, we used 16S rRNA gene amplicon sequencing to establish the variation and association between bacterial communities and the housefly across farms.
 
 Results
@@ -12,7 +12,11 @@ We were able to identify SNPs for the determination of the spatiotemporal housef
 It contains 400 genotypes and 1935747 markers.
 
 Title: Integrated genome-wide investigations of the housefly, a global vector of diseases reveal unique dispersal patterns and bacterial communities across farms
+
 Scientific name: Musca domestica
+
 Common name: Housefly
+
 DOI: https://doi.org/10.5061/dryad.0gb5mkkxf
+
 
