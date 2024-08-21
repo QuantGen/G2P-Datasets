@@ -1,0 +1,18 @@
+{
+  "Folder": "00129_AlgorithmComparisonsPredictionSorghum",
+  "DOI": "https://doi.org/10.6084/m9.figshare.23789685.v6",
+  "Publication_link": "https://espace.library.uq.edu.au/view/UQ:d0cb60d",
+  "Title": "In Silico Sorghum GxExM Dataset For Prediction Algorithm Comparisons",
+  "Abstract": "A simulated Multi-Environment Trial (MET) dataset to stimulate the development and comparisons of predictive algorithms to deconvolute genotype-by-environment-by-management interactions in plant breeding. Contains Genomic (SNP & QTL) & Phenotypic Data for Multiple Traits",
+  "Scientific_Name": "Sorghum bicolor",
+  "Common_Name": "Sorghum",
+  "Sharing_Link": "https://figshare.com/articles/dataset/In_Silico_Sorghum_GxExM_Dataset_For_Prediction_Algorithm_Comparisons/23789685/6",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": true,
+  "Pedigree": false,
+  "N_Geno": 1500,
+  "N_markers": 1000,
+  "Download_Instructions": "NA",
+  "Tags": " genotype-by-environment-by-management interactions; Plant breeding; data collection; Prediction algorithms; Genomic Prediction"
+}
