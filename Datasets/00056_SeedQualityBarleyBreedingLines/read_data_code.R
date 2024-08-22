@@ -1,7 +1,7 @@
 library(readxl)
 
 # Get geno
-geno <- read.csv('pone.0164494.s002.csv')
+geno <- read.csv2('pone.0164494.s002.csv')
 dim(geno)
 
 # Get pheno
