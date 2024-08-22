@@ -1,4 +1,3 @@
-library(tidyverse)
 library(data.table)
 
 # Get geno
