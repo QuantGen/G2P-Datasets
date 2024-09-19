@@ -13,6 +13,6 @@
   "Pedigree": true,
   "N_Geno": 1385,
   "N_markers": 12297,
-  "Download_Instructions": "NA",
+  "Download_Instructions": "Unzip the folder and Navigate to DATA folder to download data.",
   "Tags": "genomic selection; cotton breeding; SNP genotyping; genomic prediction accuracies; Bayesian predictive models; crop improvement technologies; genetic markers; trait prediction"
 }
