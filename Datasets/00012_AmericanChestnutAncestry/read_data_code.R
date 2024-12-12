@@ -11,5 +11,5 @@ map <- graw@fix
 head(map)
 
 # Get pheno
-pheno <- read.csv('Clapper_Graves_B3F2_phenotypes_2018_clean.csv')
+pheno <- read.csv('B3F3_progeny_tests_2011-2016_edited.csv.csv')
 head(pheno)
