@@ -1,19 +1,18 @@
 {
-  "ID": "0038",
   "Folder": "00038_SpringtailPhylogeographyBiosecurityRisks",
-  "Sharing_Link": "https://bridges.monash.edu/articles/dataset/SNP_dataset_for_the_springtail_Tullbergia_bisetosa/9761429",
+  "DOI": "https://doi.org/10.26180/5d6e10736bed4",
   "Publication_link": "https://onlinelibrary.wiley.com/doi/10.1111/eva.12913",
   "Title": "Springtail phylogeography highlights biosecurity risks of repeated invasions and intraregional transfers among remote islands",
-  "Abstract": "Dataset of 5680 genome-wide Single Nucleotide Polymorphisms for the springtail Tullbergia bisetosa in VCF format. An excel spreadsheet with associated metadata (sample collection details) is also supplied. The SNPs were generated at Diversity Arrays Technology (Canberra, Australia) using reduced representation next-generation sequencing, and subsequently quality filtered according to the methods outlined in the associated manuscript: Baird, H.P., Moon, K.L., Janion-Scheepers, C. & Chown, S.L. (2020) Springtail phylogeography highlights biosecurity risks of repeated invasions and intraregional transfers among remote islands. Evolutionary Applications, doi:10.1111/eva.12913",
+  "Abstract": "Human-mediated transport of species outside their natural range is a rapidly growing threat to biodiversity, particularly for island ecosystems that have evolved in isolation. The genetic structure underpinning island populations will largely determine their response to increased transport and thus help to inform biosecurity management. However, this information is severely lacking for some groups, such as the soil fauna. We therefore analysed the phylogeographic structure of an indigenous and an invasive springtail species (Collembola: Poduromorpha), each distributed across multiple remote sub-Antarctic islands, where human activity is currently intensifying. For both species, we generated a genome-wide SNP data set and additionally analysed all available COI barcodes. Genetic differentiation in the indigenous springtail Tullbergia bisetosa is substantial among (and, to a lesser degree, within) islands, reflecting low dispersal and historic population fragmentation, while COI patterns reveal ancestral signatures of postglacial recolonization. This pronounced geographic structure demonstrates the key role of allopatric divergence in shaping the region's diversity and highlights the vulnerability of indigenous populations to genetic homogenization via human transport. For the invasive species Hypogastrura viatica, nuclear genetic structure is much less apparent, particularly for islands linked by regular shipping, while diverged COI haplotypes indicate multiple independent introductions to each island. Thus, human transport has likely facilitated this species‚Äô persistence since its initial colonization, through the ongoing introduction and inter-island spread of genetic variation. These findings highlight the different evolutionary consequences of human transport for indigenous and invasive soil species. Crucially, both outcomes demonstrate the need for improved intraregional biosecurity among remote island systems, where the policy focus to date has been on external introductions.",
   "Scientific_Name": "Tullbergia bisetosa",
   "Common_Name": "Springtail",
+  "Sharing_Link": "https://bridges.monash.edu/articles/dataset/SNP_dataset_for_the_springtail_Tullbergia_bisetosa/9761429",
   "Requires_Authorization": false,
   "Phenotype": false,
   "Map": false,
   "Pedigree": false,
   "N_Geno": 178,
   "N_markers": 5680,
-  "Download_Instructions": null,
-  "DOI": "https://doi.org/10.26180/5d6e10736bed4",
-  "Abstract.scraped": "Dataset of 5680 genome-wide Single Nucleotide Polymorphisms for the springtail Tullbergia bisetosa in VCF format. An excel spreadsheet with associated metadata (sample collection details) is also supplied. The SNPs were generated at Diversity Arrays Technology (Canberra, Australia) using reduced representation next-generation sequencing, and subsequently quality filtered according to the methods outlined in the associated manuscript: Baird, H.P., Moon, K.L., Janion-Scheepers, C. & Chown, S.L. (2020) Springtail phylogeography highlights biosecurity risks of repeated invasions and intraregional transfers among remote islands. Evolutionary Applications, doi:10.1111/eva.12913"
+  "Download_Instructions": "NA",
+  "Tags": "island biodiversity; genetic structure; biosecurity management; invasive species; human-mediated transport; phylogeographic analysis; sub-Antarctic ecosystems; SNP data analysis"
 }

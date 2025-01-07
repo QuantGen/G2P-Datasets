@@ -1,10 +1,15 @@
 # Multi-Trait Genomic Prediction Improves Predictive Ability for Dry Matter Yield and Water-Soluble Carbohydrates in Perennial Ryegrass
 
-This publication discusses the Supplementary_Material: Tables S1 - S11 and Figure S1File S1: Genome-wide marker data. File S2: Genomic relationship matrix.File S3: KGD genomic relationship matrix.File S4: Phenotypic BLUPs from across the two locations and individual locations, Lincoln and Aorangi.
-It contains  genotypes and  markers.
+This publication discusses: In perennial ryegrass (Lolium perenne L), annual and seasonal dry matter yield (DMY) and nutritive quality of herbage are high-priority traits targeted for improvement through selective breeding. Genomic prediction (GP) has proven to be a valuable tool for improving complex traits and may be further enhanced through the use of multi-trait (MT) prediction models. In this study, we evaluated the relative performance of MT prediction models to improve predictive ability for DMY and key nutritive quality traits, using two different training populations (TP1, n = 463 and TP2, n = 517) phenotyped at multiple locations. MT models outperformed single-trait (ST) models by 24% to 59% for DMY and 67% to 105% for nutritive quality traits, such as low, high, and total WSC, when a correlated secondary trait was included in both the training and test set (MT-CV2) or in the test set alone (MT-CV3) (trait-assisted genomic selection). However, when a secondary trait was included in training set and not the test set (MT-CV1), the predictive ability was not statistically significant (p > 0.05) compared to the ST model. We evaluated the impact of training set size when using a MT-CV2 model. Using a highly correlated trait (rg = 0.88) as the secondary trait in the MT-CV2 model, there was no loss in predictive ability for DMY even when the training set was reduced to 50% of its original size. In contrast, using a weakly correlated secondary trait (rg = 0.56) in the MT-CV2 model, predictive ability began to decline when the training set size was reduced by only 11% from its original size. Using a ST model, genomic predictive ability in a population unrelated to the training set was poor (rp = ‚àí0.06). However, when using an MT-CV2 model, the predictive ability was positive and high (rp = 0.76) for the same population. Our results demonstrate the first assessment of MT models in forage species and illustrate the prospects of using MT genomic selection in forages, and other outcrossing plant species, to accelerate genetic gains for complex agronomical traits, such as DMY and nutritive quality characteristics.
+
+It contains 517 genotypes and 1023010 markers.
 
 Title: Multi-Trait Genomic Prediction Improves Predictive Ability for Dry Matter Yield and Water-Soluble Carbohydrates in Perennial Ryegrass
-Scientific name: 
+
+Scientific name: Lolium perenne
+
+Common name: Perennial ryegrass
+
 DOI: https://doi.org/10.25387/g3.10074323.v1
-Has phenotype 
+
 

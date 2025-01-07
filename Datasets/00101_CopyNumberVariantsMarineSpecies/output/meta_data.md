@@ -1,10 +1,15 @@
-# Copy number variants outperform SNPs to reveal genotype–temperature association in a marine species
+# Copy number variants outperform SNPs to reveal genotype√±temperature association in a marine species
 
-This publication discusses the Copy number variants (CNVs) are a major component of genotypic and phenotypic variation in genomes. To date, our knowledge of genotypic variation and evolution has largely been acquired by means of single nucleotide polymorphism (SNPs) analyses. Until recently, the adaptive role of structural variants (SVs) and particularly that of CNVs has been overlooked in wild populations, partly due to their challenging identification. Here, we document the usefulness of Rapture, a derived reduced‐representation shotgun sequencing approach, to detect and investigate copy number variants (CNVs) alongside SNPs in American lobster (Homarus americanus) populations. We conducted a comparative study to examine the potential role of SNPs and CNVs in local adaptation by sequencing 1,141 lobsters from 21 sampling sites within the southern Gulf of St. Lawrence, which experiences the highest yearly thermal variance of the Canadian marine coastal waters. Our results demonstrated that CNVs account for higher genetic differentiation than SNP markers. Contrary to SNPs, for which no significant genetic–environment association was found, 48 CNV candidates were significantly associated with the annual variance of sea surface temperature, leading to the genetic clustering of sampling locations despite their geographic separation. Altogether, we provide a strong empirical case that CNVs putatively contribute to local adaptation in marine species and unveil stronger spatial signal of population structure than SNPs. Our study provides the means to study CNVs in nonmodel species and highlights the importance of considering structural variants alongside SNPs to enhance our understanding of ecological and evolutionary processes shaping adaptive population structure.
-It contains  genotypes and  markers.
+This publication discusses: Copy number variants (CNVs) are a major component of genotypic and phenotypic variation in genomes. To date, our knowledge of genotypic variation and evolution has largely been acquired by means of single nucleotide polymorphism (SNPs) analyses. Until recently, the adaptive role of structural variants (SVs) and particularly that of CNVs has been overlooked in wild populations, partly due to their challenging identification. Here, we document the usefulness of Rapture, a derived reduced-representation shotgun sequencing approach, to detect and investigate copy number variants (CNVs) alongside SNPs in American lobster (Homarus americanus) populations. We conducted a comparative study to examine the potential role of SNPs and CNVs in local adaptation by sequencing 1,141 lobsters from 21 sampling sites within the southern Gulf of St. Lawrence, which experiences the highest yearly thermal variance of the Canadian marine coastal waters. Our results demonstrated that CNVs account for higher genetic differentiation than SNP markers. Contrary to SNPs, for which no significant genetic‚Äìenvironment association was found, 48 CNV candidates were significantly associated with the annual variance of sea surface temperature, leading to the genetic clustering of sampling locations despite their geographic separation. Altogether, we provide a strong empirical case that CNVs putatively contribute to local adaptation in marine species and unveil stronger spatial signal of population structure than SNPs. Our study provides the means to study CNVs in nonmodel species and highlights the importance of considering structural variants alongside SNPs to enhance our understanding of ecological and evolutionary processes shaping adaptive population structure.
 
-Title: Copy number variants outperform SNPs to reveal genotype–temperature association in a marine species
-Scientific name: 
+It contains 1113 genotypes and 44374 markers.
+
+Title: Copy number variants outperform SNPs to reveal genotype√±temperature association in a marine species
+
+Scientific name: Homarus americanus
+
+Common name: American lobster
+
 DOI: https://doi.org/10.5061/dryad.vt4b8gtnv
-Has phenotype 
+
 

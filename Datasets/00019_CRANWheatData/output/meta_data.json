@@ -1,19 +1,18 @@
 {
-  "ID": "0019",
   "Folder": "00019_CRANWheatData",
-  "Sharing_Link": "https://search.r-project.org/CRAN/refmans/BGLR/html/wheat.html",
-  "Publication_link": null,
+  "DOI": "https://doi.org/10.32614/CRAN.package.BGLR",
+  "Publication_link": "https://cran.r-project.org/web/packages/BGLR/index.html",
   "Title": "BGLR: Bayesian Generalized Linear Regression",
-  "Abstract": null,
+  "Abstract": "The BGLR (Bayesian Generalized Linear Regression) function fits various types of parametric and semi-parametric Bayesian regressions to continuos (censored or not), binary and ordinal outcomes",
   "Scientific_Name": "Triticum aestivum",
   "Common_Name": "Wheat",
+  "Sharing_Link": "https://CRAN.R-project.org/package=BGLR",
   "Requires_Authorization": false,
   "Phenotype": true,
   "Map": false,
   "Pedigree": false,
   "N_Geno": 599,
   "N_markers": 1279,
-  "Download_Instructions": null,
-  "DOI": null,
-  "Abstract.scraped": null
+  "Download_Instructions": "NA",
+  "Tags": "Bayesian statistics; generalized linear regression; parametric regression; semi-parametric regression; continuous outcomes; binary outcomes; ordinal outcomes; BGLR function"
 }

@@ -1,12 +1,12 @@
 {
-  "ID": "0104",
   "Folder": "00104_ChickpeaGeneticVariationMapCultivated",
-  "Sharing_Link": "https://cegresources.icrisat.org/cicerseq/?page_id=3444",
+  "DOI": "https://doi.org/10.1038/s41586-021-04066-1",
   "Publication_link": "https://www.nature.com/articles/s41586-021-04066-1",
   "Title": "A chickpea genetic variation map based on the sequencing of 3,366 genomes",
-  "Abstract": "A chickpea genetic variation map based on the sequencing of 3,366 genomes",
+  "Abstract": "Zero hunger and good health could be realized by 2030 through effective conservation, characterization and utilization of germplasm resources1. So far, few chickpea (Cicer arietinum) germplasm accessions have been characterized at the genome sequence level2. Here we present a detailed map of variation in 3,171 cultivated and 195 wild accessions to provide publicly available resources for chickpea genomics research and breeding. We constructed a chickpea pan-genome to describe genomic diversity across cultivated chickpea and its wild progenitor accessions. A divergence tree using genes present in around 80% of individuals in one species allowed us to estimate the divergence of Cicer over the last 21‚Äâmillion years. Our analysis found chromosomal segments and genes that show signatures of selection during domestication, migration and improvement. The chromosomal locations of deleterious mutations responsible for limited genetic diversity and decreased fitness were identified in elite germplasm. We identified superior haplotypes for improvement-related traits in landraces that can be introgressed into elite breeding lines through haplotype-based breeding, and found targets for purging deleterious alleles through genomics-assisted breeding and/or gene editing. Finally, we propose three crop breeding strategies based on genomic prediction to enhance crop productivity for 16 traits while avoiding the erosion of genetic diversity through optimal contribution selection (OCS)-based pre-breeding. The predicted performance for 100-seed weight, an important yield-related trait, increased by up to 23% and 12% with OCS- and haplotype-based genomic approaches, respectively.",
   "Scientific_Name": "Cicer arietinum",
   "Common_Name": "Chickpea",
+  "Sharing_Link": "https://cegresources.icrisat.org/cicerseq/?page_id=3444",
   "Requires_Authorization": false,
   "Phenotype": true,
   "Map": false,
@@ -14,6 +14,5 @@
   "N_Geno": 3171,
   "N_markers": 3941492,
   "Download_Instructions": "Download data under Cultivated cicer species SNPs. For phenotypic data; download Phenotypic data file and read sheet 1 to explore the phenotypic data.",
-  "DOI": "https://doi.org/10.1038/s41586-021-04066-1",
-  "Abstract.scraped": "A chickpea genetic variation map based on the sequencing of 3,366 genomes"
+  "Tags": "chickpea genomics; germplasm conservation; genomic diversity; plant breeding strategies; crop productivity enhancement; gene editing in agriculture; genetic diversity preservation; genomic prediction methods"
 }

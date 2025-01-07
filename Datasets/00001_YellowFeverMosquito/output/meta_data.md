@@ -1,10 +1,15 @@
-# Aedes aegypti in North America
+# Multiple introductions of the dengue vector, Aedes aegypti, into California
 
-This publication discusses the The Aedes aegypti mosquito first invaded the Americas about 500 years ago and today is a widely distributed invasive species and the primary vector for viruses causing dengue, chikungunya, Zika, and yellow fever. Here we test the hypothesis that the North American colonization by Ae. aegypti occurred via a series of founder events. We present findings on genetic diversity, structure, and demographic history using data from 70 Ae. aegypti populations in North America genotyped at 12 microsatellite loci and/or ~20,000 single nucleotide polymorphisms (SNPs), the largest genetic study of the region to date. We find evidence consistent with a colonization driven by serial founder effect (SFE), with Florida as the putative source for a series of westward invasions. This scenario was supported by 1) a decrease in the genetic diversity of Ae. aegypti populations moving west, 2) a correlation between pairwise genetic and geographic distances, and 3) demographic analysis based on allele frequencies. A few Ae. aegypti populations on the west coast do not follow the general trend, likely due to a recent and distinct invasion history. We argue that SFE provides a helpful albeit simplified model for the movement of Ae. aegypti across North America, with outlier populations warranting further investigation.
-It contains  genotypes and  markers.
+This publication discusses: The yellow fever mosquito Aedes aegypti inhabits much of the tropical and subtropical world and is a primary vector of dengue, Zika, and chikungunya viruses. Breeding populations of A. aegypti were first reported in California (CA) in 2013. Initial genetic analyses using 12 microsatellites on collections from Northern CA in 2013 indicated the South Central US region as the likely source of the introduction. We expanded genetic analyses of CA A. aegypti by: (a) examining additional Northern CA samples and including samples from Southern CA, (b) including more southern US populations for comparison, and (c) genotyping a subset of samples at 15,698 SNPs. Major results are: (1) Northern and Southern CA populations are distinct. (2) Northern populations are more genetically diverse than Southern CA populations. (3) Northern and Southern CA groups were likely founded by two independent introductions which came from the South Central US and Southwest US/northern Mexico regions respectively. (4) Our genetic data suggest that the founding events giving rise to the Northern CA and Southern CA populations likely occurred before the populations were first recognized in 2013 and 2014, respectively. (5) A Northern CA population analyzed at multiple time-points (two years apart) is genetically stable, consistent with permanent in situ breeding. These results expand previous work on the origin of California A. aegypti with the novel finding that this species entered California on multiple occasions, likely some years before its initial detection. This work has implications for mosquito surveillance and vector control activities not only in California but also in other regions where the distribution of this invasive mosquito is expanding.
 
-Title: Aedes aegypti in North America
-Scientific name: 
+It contains 381 genotypes and 20003 markers.
+
+Title: Multiple introductions of the dengue vector, Aedes aegypti, into California
+
+Scientific name: Aedes aegypti
+
+Common name: Yellow Fever Mosquito
+
 DOI: https://doi.org/10.5061/dryad.5x69p8d5j
-Has phenotype 
+
 

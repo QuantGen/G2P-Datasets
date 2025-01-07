@@ -1,0 +1,18 @@
+{
+  "Folder": "00136_ComprehensiveDatabaseMultiple20Species",
+  "DOI": "https://doi.org/10.1093/nar/gkac954",
+  "Publication_link": "https://academic.oup.com/nar/article/51/D1/D816/6775385",
+  "Title": "Animal-SNPAtlas: a comprehensive SNP database for multiple animals",
+  "Abstract": "Single-nucleotide polymorphisms (SNPs) as the most important type of genetic variation are widely used in describing population characteristics and play vital roles in animal genetics and breeding. Large amounts of population genetic variation resources and tools have been developed in human, which provided solid support for human genetic studies. However, compared with human, the development of animal genetic variation databases was relatively slow, which limits the genetic researches in these animals. To fill this gap, we systematically identified ∼ 499 million high-quality SNPs from 4784 samples of 20 types of animals. On that basis, we annotated the functions of SNPs, constructed high-density reference panels and calculated genome-wide linkage disequilibrium (LD) matrixes. We further developed Animal-SNPAtlas, a user-friendly database (http://gong_lab.hzau.edu.cn/Animal_SNPAtlas/) which includes high-quality SNP datasets and several support tools for multiple animals. In Animal-SNPAtlas, users can search the functional annotation of SNPs, perform online genotype imputation, explore and visualize LD information, browse variant information using the genome browser and download SNP datasets for each species. With the massive SNP datasets and useful tools, Animal-SNPAtlas will be an important fundamental resource for the animal genomics, genetics and breeding community.",
+  "Scientific_Name": "",
+  "Common_Name": "20 Species",
+  "Sharing_Link": "http://gong_lab.hzau.edu.cn/Animal_SNPAtlas/#!/download_cattle",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": true,
+  "Pedigree": false,
+  "N_Geno": 5572,
+  "N_markers": 515000000,
+  "Download_Instructions": "The database includes data for 20 different species. Please select the species after visiting the website and scroll down to download the required chromosome data in VCF format.",
+  "Tags": "Animal SNP Atlas database; Functional annotation; Support tools; Large amounts; Animal genomics genetics; Fundamental resource; Multiple animals; Genome browser"
+}

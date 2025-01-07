@@ -1,19 +1,18 @@
 {
-  "ID": "0024",
   "Folder": "00024_GenomicPredictionTropicalMaize",
-  "Sharing_Link": "https://figshare.com/articles/dataset/Predicting_tropical_maize_inbred_lines_with_external_panels_from_public_dataset/5525263/2",
+  "DOI": "https://doi.org/10.6084/m9.figshare.5525263.v2",
   "Publication_link": "https://onlinelibrary.wiley.com/doi/10.1111/pbr.12827",
   "Title": "Using public databases for genomic prediction of tropical maize lines",
-  "Abstract": "Throughout this dataset we proposed a hypothetical and realistic scenario in order to apply Genomic Selection (GS) - use of a limited budget and the need to increase genetic variability. To reach that we tested the feasibility of using genomic and phenotypic information from public databases for prediction of tropical maize inbred lines, seeking to identify how the population structure, the use of optimized training sets (OTS), and the amount of information coming from public databases affect the predictive ability. The results were encouraging, opening up possibilities to others replicate the same approach with different crops or dataset.",
+  "Abstract": "In this paper, the aims were (a) to test the usefulness of using genomic and phenotypic information from public databases (open access) to predict genetic values for tropical maize inbred lines regarding plant and ear height; (b) to identify how the population structure, the use of optimized training sets (OTSs) and the amount of information originating from public databases affect the predictive ability. Thus, 29 training sets (TSs) were defined considering three diversity panels: the University of S√£o Paulo (USP‚Äîvalidation set (VS)) and the ASSO and USDA North Central Regional Plant Introduction Station (NCRPIS) (external public panels‚Äîpredictors), which were divided into four scenarios with different TS configurations. We showed that it is possible to use public datasets as a primary TS and that population structure can modify the predictive abilities of GS. In the four scenarios proposed, very large or very small sets did not provide predictive abilities over 0.53 for GS. However, OTSs composed of 250 individuals were sufficient to achieve predictive abilities over this limit.",
   "Scientific_Name": "Zea mays",
   "Common_Name": "Maize",
+  "Sharing_Link": "https://figshare.com/articles/dataset/Predicting_tropical_maize_inbred_lines_with_external_panels_from_public_dataset/5525263/2",
   "Requires_Authorization": false,
   "Phenotype": true,
   "Map": false,
   "Pedigree": false,
   "N_Geno": 2749,
   "N_markers": 28258,
-  "Download_Instructions": null,
-  "DOI": "https://doi.org/10.6084/m9.figshare.5525263.v2",
-  "Abstract.scraped": "Throughout this dataset we proposed a hypothetical and realistic scenario in order to apply Genomic Selection (GS) - use of a limited budget and the need to increase genetic variability. To reach that we tested the feasibility of using genomic and phenotypic information from public databases for prediction of tropical maize inbred lines, seeking to identify how the population structure, the use of optimized training sets (OTS), and the amount of information coming from public databases affect the predictive ability. The results were encouraging, opening up possibilities to others replicate the same approach with different crops or dataset."
+  "Download_Instructions": "NA",
+  "Tags": "genomic prediction; tropical maize; phenotypic data; population structure; training sets; predictive ability; genetic values; public databases"
 }

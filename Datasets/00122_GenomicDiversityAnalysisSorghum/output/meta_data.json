@@ -1,0 +1,18 @@
+{
+  "Folder": "00122_GenomicDiversityAnalysisSorghum",
+  "DOI": "https://doi.org/10.5061/dryad.5n2bs6r",
+  "Publication_link": "https://cdnsciencepub.com/doi/10.1139/gen-2017-0131",
+  "Title": "Population genomics of sorghum (Sorghum bicolor) across diverse agroclimatic zones of Niger",
+  "Abstract": "Improving adaptation of staple crops in developing countries is important to ensure food security. In the West African country of Niger, the staple crop sorghum (Sorghum bicolor) is cultivated across diverse agroclimatic zones, but the genetic basis of local adaptation has not been described. The objectives of this study were to characterize the genomic diversity of sorghum from Niger and to identify genomic regions conferring local adaptation to agroclimatic zones and farmer preferences. We analyzed 516 Nigerien accessions for which local variety name, botanical race, and geographic origin were known. We discovered 144 299 single nucleotide polymorphisms (SNPs) using genotyping-by-sequencing (GBS). We performed discriminant analysis of principal components (DAPC), which identified six genetic groups, and performed a genome scan for loci with high discriminant loadings. The highest discriminant coefficients were on chromosome 9, near the putative ortholog of maize flowering time adaptation gene Vgt1. Next, we characterized differentiation among local varieties and used a genome scan of pairwise FST values to identify SNPs associated with specific local varieties. Comparison of varieties named for light- versus dark-grain identified differentiation near Tannin1, the major gene responsible for grain tannins. These findings could facilitate genomics-assisted breeding of locally adapted and farmer-preferred sorghum varieties for Niger.",
+  "Scientific_Name": "Sorghum bicolor",
+  "Common_Name": "Sorghum",
+  "Sharing_Link": "https://datadryad.org/stash/dataset/doi:10.5061/dryad.5n2bs6r",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 516,
+  "N_markers": 144299,
+  "Download_Instructions": "NA",
+  "Tags": "sorghum-genetics; genomics-assisted-breeding; local-adaptation; food-security; genetic-diversity; single-nucleotide-polymorphisms; West-Africa; agroclimatic-zones"
+}

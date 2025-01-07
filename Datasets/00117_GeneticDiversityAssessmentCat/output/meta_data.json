@@ -1,0 +1,18 @@
+{
+  "Folder": "00117_GeneticDiversityAssessmentCat",
+  "DOI": "https://doi.org/10.5061/dryad.pvmcvdnhd",
+  "Publication_link": "https://www.sciencedirect.com/science/article/pii/S0888754320320164?via%3Dihub",
+  "Title": "Genetic relationships and inbreeding levels among geographically distant populations of Felis catus from Japan and the United States",
+  "Abstract": "Pedigreed cats have traditionally been mated with close relatives, which increases the risks for inbreeding depression and genetic disorders. We evaluated the genome-wide population structure and the degree of inbreeding of 1022 cats, including 13 pedigreed and two random bred populations from Japan and the USA, using single nucleotide polymorphism array-based data. Ancestry structure analysis revealed Japan's American Curl, Norwegian Forest, and Siamese cat populations were genetically distinct from their American counterparts. Furthermore, we found an ancestral genetic component shared between five pedigreed and random bred Japanese cats, suggesting the breeds were admixed with Japanese cats or cats of east Asian origin. Between-country differences in inbreeding estimates based on runs of homozygosity were found for Maine Coon, Siamese, and random bred cats. To reduce the risks of inbreeding depression and genetic disorders, particularly for highly inbred breeds, such as Abyssinian cats, as well as Russian Blue and Siamese cats in the USA, appropriate breeding practices must be observed, including mating practices that increase the genetic diversity.",
+  "Scientific_Name": "Felis catus",
+  "Common_Name": "Cat",
+  "Sharing_Link": "https://datadryad.org/stash/dataset/doi:10.5061/dryad.pvmcvdnhd",
+  "Requires_Authorization": false,
+  "Phenotype": true,
+  "Map": true,
+  "Pedigree": false,
+  "N_Geno": 344,
+  "N_markers": 61967,
+  "Download_Instructions": "NA",
+  "Tags": "genetics; animal breeding; inbreeding depression; genetic diversity; pedigreed cats; population genetics; SNP array; genetic disorders"
+}

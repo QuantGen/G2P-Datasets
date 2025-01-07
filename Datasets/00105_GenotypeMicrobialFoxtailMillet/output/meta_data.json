@@ -1,12 +1,12 @@
 {
-  "ID": "0105",
   "Folder": "00105_GenotypeMicrobialFoxtailMillet",
-  "Sharing_Link": "https://zenodo.org/records/7018179",
+  "DOI": "https://doi.org/10.5281/zenodo.7018178",
   "Publication_link": "https://www.nature.com/articles/s41467-022-33238-4",
   "Title": "GWAS, MWAS and mGWAS provide insights into precision agriculture based on genotype-dependent microbial effects in foxtail millet",
-  "Abstract": "Foxtail millet data analysis\nFull Changelog: https://github.com/wyy2017/Foxtail-millet-data-analysis/commits/V1",
+  "Abstract": "Genetic and environmental factors collectively determine plant growth and yield. In the past 20 years, genome-wide association studies (GWAS) have been conducted on crops to decipher genetic loci that contribute to growth and yield, however, plant genotype appears to be insufficient to explain the trait variations. Here, we unravel the associations between genotypic, phenotypic, and rhizoplane microbiota variables of 827 foxtail millet cultivars by an integrated GWAS, microbiome-wide association studies (MWAS) and microbiome genome-wide association studies (mGWAS) method. We identify 257 rhizoplane microbial biomarkers associated with six key agronomic traits and validated the microbial-mediated growth effects on foxtail millet using marker strains isolated from the field. The rhizoplane microbiota composition is mainly driven by variations in plant genes related to immunity, metabolites, hormone signaling and nutrient uptake. Among these, the host immune gene FLS2 and transcription factor bHLH35 are widely associated with the microbial taxa of the rhizoplane. We further uncover a plant genotype-microbiota interaction network that contributes to phenotype plasticity. The microbial-mediated growth effects on foxtail millet are dependent on the host genotype, suggesting that precision microbiome management could be used to engineer high-yielding cultivars in agriculture systems.",
   "Scientific_Name": "Setaria italica",
   "Common_Name": "Foxtail millet",
+  "Sharing_Link": "https://zenodo.org/records/7018179",
   "Requires_Authorization": false,
   "Phenotype": true,
   "Map": false,
@@ -14,6 +14,5 @@
   "N_Geno": 827,
   "N_markers": 161562,
   "Download_Instructions": "Download the data and unzip it. For more Information on Phenotypic data, read the markdown file under Figure2 Folder.",
-  "DOI": "https://doi.org/10.5281/zenodo.7018178",
-  "Abstract.scraped": "Foxtail millet data analysis\nFull Changelog: https://github.com/wyy2017/Foxtail-millet-data-analysis/commits/V1"
+  "Tags": "plant-genetics; microbiome; GWAS; agriculture; crop-yield; microbial-biomarkers; genotype-phenotype-interactions; plant-microbiota-network"
 }

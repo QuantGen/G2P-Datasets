@@ -1,0 +1,18 @@
+{
+  "Folder": "00131_AssignmentMorphometricPopulationHoneybees",
+  "DOI": "https://doi.org/10.5061/dryad.98jh446",
+  "Publication_link": "https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4998-x",
+  "Title": "Population genomics and morphometric assignment of western honey bees (Apis mellifera L.) in the Republic of South Africa",
+  "Abstract": "Apis mellifera scutellata and A.m. capensis (the Cape honey bee) are western honey bee subspecies indigenous to the Republic of South Africa (RSA). Both bees are important for biological and economic reasons. First, A.m. scutellata is the invasive “African honey bee” of the Americas and exhibits a number of traits that beekeepers consider undesirable. They swarm excessively, are prone to absconding (vacating the nest entirely), usurp other honey bee colonies, and exhibit heightened defensiveness. Second, Cape honey bees are socially parasitic bees; the workers can reproduce thelytokously. Both bees are indistinguishable visually. Therefore, we employed Genotyping-by-Sequencing (GBS), wing geometry and standard morphometric approaches to assess the genetic diversity and population structure of these bees to search for diagnostic markers that can be employed to distinguish between the two subspecies.  Results Apis mellifera scutellata possessed the highest mean number of polymorphic SNPs (among 2449 informative SNPs) with minor allele frequencies > 0.05 (Np = 88%). The RSA honey bees generated a high level of expected heterozygosity (Hexp = 0.24). The mean genetic differentiation (FST; 6.5%) among the RSA honey bees revealed that approximately 93% of the genetic variation was accounted for within individuals of these subspecies. Two genetically distinct clusters (K = 2) corresponding to both subspecies were detected by Model-based Bayesian clustering and supported by Principal Coordinates Analysis (PCoA) inferences. Selected highly divergent loci (n = 83) further reinforced a distinctive clustering of two subspecies across geographical origins, accounting for approximately 83% of the total variation in the PCoA plot. The significant correlation of allele frequencies at divergent loci with environmental variables suggested that these populations are adapted to local conditions. Only 17 of 48 wing geometry and standard morphometric parameters were useful for clustering A.m. capensis, A.m. scutellata, and hybrid individuals.  Conclusions We produced a minimal set of 83 SNP loci and 17 wing geometry and standard morphometric parameters useful for identifying the two RSA honey bee subspecies by genotype and phenotype. We found that genes involved in neurology/behavior and development/growth are the most prominent heritable traits evolved in the functional evolution of honey bee populations in RSA. These findings provide a starting point for understanding the functional basis of morphological differentiations and ecological adaptations of the two honey bee subspecies in RSA.",
+  "Scientific_Name": "Apis mellifera L.",
+  "Common_Name": "Honey bees",
+  "Sharing_Link": "https://datadryad.org/stash/dataset/doi:10.5061/dryad.98jh446",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": true,
+  "Pedigree": false,
+  "N_Geno": 475,
+  "N_markers": 2449,
+  "Download_Instructions": "NA",
+  "Tags": "Population genomics; Morphometric assignment; Western honey bees; South Africa; Bayesian clustering"
+}

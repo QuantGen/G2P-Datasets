@@ -1,0 +1,18 @@
+{
+  "Folder": "00137_DatabaseQualitySpecies13Species",
+  "DOI": "https://doi.org/10.1038/s41597-024-03111-8",
+  "Publication_link": "https://www.nature.com/articles/s41597-024-03111-8",
+  "Title": "FishSNP: a high quality cross-species SNP database of fishes",
+  "Abstract": "The progress of aquaculture heavily depends on the efficient utilization of diverse genetic resources to enhance production efficiency and maximize profitability. Single nucleotide polymorphisms (SNPs) have been widely used in the study of aquaculture genomics, genetics, and breeding research since they are the most prevalent molecular markers on the genome. Currently, a large number of SNP markers from cultured fish species are scattered in individual studies, making querying complicated and data reuse problematic. We compiled relevant SNP data from literature and public databases to create a fish SNP database, FishSNP (http://bioinfo.ihb.ac.cn/fishsnp), and also used a unified analysis pipeline to process raw data that the author of the literature did not perform SNP calling on to obtain SNPs with high reliability. This database presently contains 45,690,243 (45 million) nonredundant SNP data for 13 fish species, with 30,288,958 (30 million) of those being high-quality SNPs. The main function of FishSNP is to search, browse, annotate and download SNPs, which provide researchers various and comprehensive associated information.",
+  "Scientific_Name": "",
+  "Common_Name": "13 Species",
+  "Sharing_Link": "http://bioinfo.ihb.ac.cn/fishsnp/download",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 7167,
+  "N_markers": 45690243,
+  "Download_Instructions": "If the data can't be downloaded from the website, please download it from -> https://doi.org/10.6084/m9.figshare.25143119.v1",
+  "Tags": " SNPs data of 13 fish species; Mendelian segregation ratio test; Hardy-Weinberg equilibrium test; SNP calling; "
+}

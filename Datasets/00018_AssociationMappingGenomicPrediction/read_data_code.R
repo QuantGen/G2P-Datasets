@@ -1,5 +1,5 @@
 # Get geno
-geno <- read.csv('quality.lines.GBS.numeric.csv')
+geno <- read.csv('quality.lines.GBS.numeric.csv',check.names = F)
 dim(geno)
 
 # Get pheno

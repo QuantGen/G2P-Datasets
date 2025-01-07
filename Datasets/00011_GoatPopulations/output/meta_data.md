@@ -1,14 +1,29 @@
-# Signatures of selection and environmental adaptation across the goat genome post-domestication
+# Genome-wide SNP profiling of worldwide goat populations reveals strong partitioning of diversity and highlights post-domestication migration routes
 
-This publication discusses the Background: Since goat was domesticated 10,000 years ago, many factors have contributed to the differentiation of goat breeds and these are classified mainly into two types: (i) adaptation to different breeding systems and/or purposes and (ii) adaptation to different environments. As a result, approximately 600 goat breeds have developed worldwide; they differ considerably from one another in terms of phenotypic characteristics and are adapted to a wide range of climatic conditions. In this work, we analyzed the AdaptMap goat dataset, which is composed of data from more than 3000 animals collected worldwide and genotyped with the CaprineSNP50 BeadChip. These animals were partitioned into groups based on geographical area, production uses, available records on solid coat color and environmental variables including the sampling geographical coordinates, to investigate the role of natural and/or artificial selection in shaping the genome of goat breeds.
+This publication discusses: Background
 
-Results: Several signatures of selection on different chromosomal regions were detected across the different breeds, sub-geographical clusters, phenotypic and climatic groups. These regions contain genes that are involved in important biological processes, such as milk-, meat- or fiber-related production, coat color, glucose pathway, oxidative stress response, size, and circadian clock differences. Our results confirm previous findings in other species on adaptation to extreme environments and human purposes and provide new genes that could explain some of the differences between goat breeds according to their geographical distribution and adaptation to different environments.
+Goat populations that are characterized within the AdaptMap project cover a large part of the worldwide distribution of this species and provide the opportunity to assess their diversity at a global scale. We analysed genome-wide 50 K single nucleotide polymorphism (SNP) data from 144 populations to describe the global patterns of molecular variation, compare them to those observed in other livestock species, and identify the drivers that led to the current distribution of goats.
 
-Conclusions: These analyses of signatures of selection provide a comprehensive first picture of the global domestication process and adaptation of goat breeds and highlight possible genes that may have contributed to the differentiation of this species worldwide.
-It contains  genotypes and  markers.
 
-Title: Signatures of selection and environmental adaptation across the goat genome post-domestication
-Scientific name: 
+
+Results
+
+A high degree of genetic variability exists among the goat populations studied. Our results highlight a strong partitioning of molecular diversity between and within continents. Three major gene pools correspond to goats from Europe, Africa and West Asia. Dissection of sub-structures disclosed regional gene pools, which reflect the main post-domestication migration routes. We also identified several exchanges, mainly in African populations, and which often involve admixed and cosmopolitan breeds. Extensive gene flow has taken place within specific areas (e.g., south Europe, Morocco and Mali-Burkina Faso-Nigeria), whereas elsewhere isolation due to geographical barriers (e.g., seas or mountains) or human management has decreased local gene flows.
+
+
+
+Conclusions
+
+After domestication in the Fertile Crescent in the early Neolithic era (ca. 12,000 YBP), domestic goats that already carried differentiated gene pools spread to Europe, Africa and Asia. The spread of these populations determined the major genomic background of the continental populations, which currently have a more marked subdivision than that observed in other ruminant livestock species. Subsequently, further diversification occurred at the regional level due to geographical and reproductive isolation, which was accompanied by additional migrations and/or importations, the traces of which are still detectable today. The effects of breed formation were clearly detected, particularly in Central and North Europe. Overall, our results highlight a remarkable diversity that occurs at the global scale and is locally partitioned and often affected by introgression from cosmopolitan breeds. These findings support the importance of long-term preservation of goat diversity, and provide a useful framework for investigating adaptive introgression, directing genetic improvement and choosing breeding targets.
+
+It contains 4653 genotypes and 53347 markers.
+
+Title: Genome-wide SNP profiling of worldwide goat populations reveals strong partitioning of diversity and highlights post-domestication migration routes
+
+Scientific name: Capra hircus
+
+Common name: Domestic goats
+
 DOI: https://doi.org/10.5061/dryad.v8g21pt
-Has phenotype 
+
 

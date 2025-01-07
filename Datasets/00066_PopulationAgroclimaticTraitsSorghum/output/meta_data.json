@@ -1,19 +1,18 @@
 {
-  "ID": "0066",
   "Folder": "00066_PopulationAgroclimaticTraitsSorghum",
-  "Sharing_Link": "https://figshare.com/articles/dataset/Lozano_et_al_2022/20052149/1",
+  "DOI": "https://doi.org/10.6084/m9.figshare.20052149.v1",
   "Publication_link": "https://www.pnas.org/doi/10.1073/pnas.1215985110#supplementary-materials",
   "Title": "Population genomic and genome-wide association studies of agroclimatic traits in sorghum",
-  "Abstract": "Here are the data that have been analyzed in Lozano et al. 2012. The maize data were originally published in Lipka et al. (2013) (https://doi.org/10.1534/g3.113.006148), and the sorghum data were orginally publisehd in Morris et al. (2013) (https://doi.org/10.1073/pnas.121598511)",
+  "Abstract": "Accelerating crop improvement in sorghum, a staple food for people in semiarid regions across the developing world, is key to ensuring global food security in the context of climate change. To facilitate gene discovery and molecular breeding in sorghum, we have characterized ‚àº265,000 single nucleotide polymorphisms (SNPs) in 971 worldwide accessions that have adapted to diverse agroclimatic conditions. Using this genome-wide SNP map, we have characterized population structure with respect to geographic origin and morphological type and identified patterns of ancient crop diffusion to diverse agroclimatic regions across Africa and Asia. To better understand the genomic patterns of diversification in sorghum, we quantified variation in nucleotide diversity, linkage disequilibrium, and recombination rates across the genome. Analyzing nucleotide diversity in landraces, we find evidence of selective sweeps around starch metabolism genes, whereas in landrace-derived introgression lines, we find introgressions around known height and maturity loci. To identify additional loci underlying variation in major agroclimatic traits, we performed genome-wide association studies (GWAS) on plant height components and inflorescence architecture. GWAS maps several classical loci for plant height, candidate genes for inflorescence architecture. Finally, we trace the independent spread of multiple haplotypes carrying alleles for short stature or long inflorescence branches. This genome-wide map of SNP variation in sorghum provides a basis for crop improvement through marker-assisted breeding and genomic selection.",
   "Scientific_Name": "Sorghum bicolor",
   "Common_Name": "Sorghum",
+  "Sharing_Link": "https://figshare.com/articles/dataset/Lozano_et_al_2022/20052149/1",
   "Requires_Authorization": false,
   "Phenotype": false,
   "Map": false,
   "Pedigree": false,
   "N_Geno": 320,
   "N_markers": 116128,
-  "Download_Instructions": null,
-  "DOI": "https://doi.org/10.6084/m9.figshare.20052149.v1",
-  "Abstract.scraped": "Here are the data that have been analyzed in Lozano et al. 2012. The maize data were originally published in Lipka et al. (2013) (https://doi.org/10.1534/g3.113.006148), and the sorghum data were orginally publisehd in Morris et al. (2013) (https://doi.org/10.1073/pnas.121598511)"
+  "Download_Instructions": "NA",
+  "Tags": "crop improvement; sorghum; single nucleotide polymorphisms (SNPs); genome-wide association studies (GWAS); food security; climate change; molecular breeding; genetic diversity"
 }
