@@ -1,14 +1,48 @@
-y <- pheno[, 1]
-geno2 <- geno[!is.na(y),]
-y <- y[!is.na(y)]
+install.packages(pkg='BGLR',repos='https://cran.r-project.org/')
+install.packages('BGData')
 
-# Determine response type
-ytype <- ifelse(length(unique(y)) < 10, 'ordinal', 'gaussian')
+library(tidyverse)
+library(BGLR)
+library(data.table)
+library(BGData)
 
-# if it is ordinal
-if (ytype == 'ordinal') y <- as.integer(factor(y)) - 1
-yNA <- y
+# load data
+load(list.files(path = "../input", recursive = T, full.names = T, pattern = ".rdata")[1])
 
-LP <- list(list(X = geno2, model = 'BayesB'))
+# Impute genotypes
+geno <- preprocess(geno, center = T, impute = T)
 
-mod0 <- BGLR(y = yNA, ETA = LP, nIter = 15000, burnIn = 1500, response_type = ytype, verbose = F)
+# Take the first trait on the phenotype data frame
+y <- pheno[, 2]
+
+# Remove NAs
+geno <- geno[!is.na(y),]
+yNA <- y <- y[!is.na(y)]
+
+# Partition 80% TRN-TST
+trn <- sample(seq_along(y), as.integer(length(y) * .8))
+tst <- setdiff(seq_along(y), trn)
+yNA[-trn] <- NA
+
+# Set model choice and hyperparameters
+model <- 'BayesB'
+nIter <- 150
+burnIn <- 15
+
+if (model == 'BayesB') {
+  LP <- list(list(X = geno, model = 'BayesB'))
+}
+
+# Saving on a temporary directory
+PWD <- getwd()
+setwd(tempdir())
+
+# Running the model
+mod0 <- BGLR(y = yNA, ETA = LP, nIter = nIter, burnIn = burnIn, verbose = F)
+
+# Coming back to the original directory
+setwd(PWD)
+
+# Prediction Ability for this sample
+PA <- cor(y[-trn], mod0$yHat[-trn])
+plot(cor(y, mod0$yHat), main = PA)
