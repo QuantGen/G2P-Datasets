@@ -1,4 +1,4 @@
-# GPDatasets
+# G2P-Datasets
 
 G2P-Datasets is a platform for accessing >100 public genome-to-phenome datasets for plants and animals.
 
