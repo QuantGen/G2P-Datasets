@@ -3,7 +3,7 @@
 G2P-Datasets is a platform for accessing >100 public genome-to-phenome datasets for plants and animals.
 
 ## How to use G2P-Datasets
-The hosted datasets and code can be search for via the following **<a href="https://mtwatson.shinyapps.io/G2P-datasets/" target="_blank">Web App</a>**.
+The hosted datasets and code can be search for via the following **<a href="https://mtwatson.shinyapps.io/G2P-datasets/" target="_blank">Web Application</a>**.
 
 ### Accessing datasets and analyses
 To browse datasets, go to the "Datasets" module of the web app (the default module) and search the dataset's metadata (species, type of study, etc.) in the search box. Additional metadata fields (n Genotypes, n Markers, etc.) can be used as filters individually in the search table. Click on a dataset in the table to view a summary of the dataset. Below the dataset summary, the user can also access code to load the dataset from an external database (GPDatasets links to datasets in situ and does not store datasets itself), format the data to a standard format for analysis, and perform genomic prediction on the data using a range of provided models.
@@ -18,5 +18,12 @@ The web application code and repository used in this study have been permanently
 
 Repository: [https://doi.org/10.5281/zenodo.17604233](https://zenodo.org/records/17604233)
 
-Web app: [https://doi.org/10.5281/zenodo.17604237](https://zenodo.org/records/17604237);
+Web application: [https://doi.org/10.5281/zenodo.17604237](https://zenodo.org/records/17604237)
 
+### Similar Databases (specific to a species)
+1) Cassava: [https://cassavabase.org/](https://cassavabase.org/)
+2) Sweetpotato: [https://sweetpotatobase.org/](https://sweetpotatobase.org/)
+3) Banana: [https://musabase.org/](https://musabase.org/)
+4) Solanaceae: [https://solgenomics.net/](https://solgenomics.net/)
+5) Cotton: [https://db.cngb.org/cottonGVD/](https://db.cngb.org/cottonGVD/)
+   
