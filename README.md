@@ -12,3 +12,9 @@ To browse datasets, go to the "Datasets" module of the web app (the default modu
 To contribute a dataset to the repository, first make sure it's not already in the repository (see Accessing datasets and analyses). If it isn't already present, go to the "Add dataset" module of the web app and fill in all the required fields about the dataset's metadata and code to load and format the data. The app will then package the provided metadata and code into a standard format which can be pushed to the repo as-is. Download the packaged dataset .zip file, unzip it, and submit the resulting folder formatted metadata to the [repository](https://github.com/QuantGen/G2P-Datasets). 
 
 Please follow the instructions in the provided [document](https://drive.google.com/file/d/1NeJ3CxIhUVJZEGCtVmuXZq7j2lYvB5jw/view?usp=sharing) to add a dataset to the web application.
+
+### Data and Code Availability
+The web application code and repository used in this study have been permanently archived in Zenodo and are publicly available.
+Repository: [https://doi.org/10.5281/zenodo.17604233](https://zenodo.org/records/17604233);
+Web app: [https://doi.org/10.5281/zenodo.17604237](https://zenodo.org/records/17604237); 
+
