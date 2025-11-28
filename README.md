@@ -20,7 +20,8 @@ Repository: [https://doi.org/10.5281/zenodo.17604233](https://zenodo.org/records
 
 Web application: [https://doi.org/10.5281/zenodo.17604237](https://zenodo.org/records/17604237)
 
-### Similar Databases (specific to a species)
+### Databases specific to a species
+The following some of many currently available plant genome databases specific to a species. To download the dataset, go to the specific webiste and follow the download instructions.
 1) Cassava: [https://cassavabase.org/](https://cassavabase.org/)
 2) Sweetpotato: [https://sweetpotatobase.org/](https://sweetpotatobase.org/)
 3) Banana: [https://musabase.org/](https://musabase.org/)
