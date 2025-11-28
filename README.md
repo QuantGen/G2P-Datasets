@@ -15,6 +15,8 @@ Please follow the instructions in the provided [document](https://drive.google.c
 
 ### Data and Code Availability
 The web application code and repository used in this study have been permanently archived in Zenodo and are publicly available.
-Repository: [https://doi.org/10.5281/zenodo.17604233](https://zenodo.org/records/17604233);
-Web app: [https://doi.org/10.5281/zenodo.17604237](https://zenodo.org/records/17604237); 
+
+Repository: [https://doi.org/10.5281/zenodo.17604233](https://zenodo.org/records/17604233)
+
+Web app: [https://doi.org/10.5281/zenodo.17604237](https://zenodo.org/records/17604237);
 
