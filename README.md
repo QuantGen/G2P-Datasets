@@ -14,7 +14,7 @@ To contribute a dataset to the repository, first make sure it's not already in t
 
 Please follow the instructions in the provided [document](https://drive.google.com/file/d/1NeJ3CxIhUVJZEGCtVmuXZq7j2lYvB5jw/view?usp=sharing) to add a dataset to the web application.
 
-Users are responsible for proper attribution of the datasets listed in this resource. [***]
+Users are responsible for proper attribution of the datasets listed in this resource; however, a member of our team will review the request and approve/deny after evaluationg possible duplications, the fitness of the proposed data set to this project, the existence of a DOI linked to the data, and the accuracy of the meta-data.
 
 
 ### Data and Code Availability
