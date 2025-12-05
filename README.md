@@ -12,7 +12,7 @@ To browse datasets, go to the "Datasets" module of the web app (the default modu
 
 To contribute a dataset to the repository, first make sure it's not already in the repository (see [Accessing datasets and analyses](https://github.com/QuantGen/G2P-Datasets/blob/main/README.md#accessing-datasets-and-analyses)). If it isn't already present,  (i) go to the "Add dataset" module of the web app and fill in all the required fields about the dataset's metadata and code to load the data. The app will then package the provided metadata and code into a standard format which can be pushed to the repo as-is. Download the packaged dataset .zip file, unzip it, and submit it the resulting folder to the [repository](https://github.com/QuantGen/G2P-Datasets). 
 
-Please follow the instructions provided in this [document](https://drive.google.com/file/d/1NeJ3CxIhUVJZEGCtVmuXZq7j2lYvB5jw/view?usp=sharing) to propose adding a dataset to the web application. A member of our team will review the request and approve or deny it after evaluating possible duplications, the fitness of the proposed data set to this project, the existence of a DOI linked to the data, and the accuracy of the meta-data.
+Please follow the instructions in this [document](https://drive.google.com/file/d/1NeJ3CxIhUVJZEGCtVmuXZq7j2lYvB5jw/view?usp=sharing) to propose adding a dataset to the web application. A member of our team will review your request and approve or deny it after evaluating potential duplication, the relevance of the dataset to the project, the presence of a DOI, and the accuracy of the metadata.
 
 
 ### Data and Code Availability
