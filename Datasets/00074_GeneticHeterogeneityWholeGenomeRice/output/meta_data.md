@@ -10,5 +10,5 @@ Scientific name: Oriza sativa
 
 Common name: Rice
 
-DOI: https://doi.org/10.1534/genetics.115.177394
+DOI: https://doi.org/10.1038/ncomms1467
 
