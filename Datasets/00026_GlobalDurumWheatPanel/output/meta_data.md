@@ -10,6 +10,6 @@ Scientific name: Triticum turgidum
 
 Common name: Wheat
 
-DOI: [https://doi.org/10.1093/database/baac034](https://doi.org/10.3389/fpls.2020.569905)
+DOI: [https://doi.org/10.3389/fpls.2020.569905](https://doi.org/10.3389/fpls.2020.569905)
 
 
