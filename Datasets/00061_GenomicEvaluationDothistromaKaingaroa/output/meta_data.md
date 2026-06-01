@@ -1,4 +1,4 @@
-# Effect of trait√≠s expression level on single-step genomic evaluation of resistance to Dothistroma needle blight
+# Effect of trait's expression level on single-step genomic evaluation of resistance to Dothistroma needle blight
 
 This publication discusses: Background
 
@@ -18,7 +18,7 @@ Implementation of genomic selection in this test population of Pinus radiata res
 
 It contains 720 genotypes and 64464 markers.
 
-Title: Effect of trait√≠s expression level on single-step genomic evaluation of resistance to Dothistroma needle blight
+Title: Effect of trait's expression level on single-step genomic evaluation of resistance to Dothistroma needle blight
 
 Scientific name: Pinus radiata
 
